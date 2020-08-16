@@ -7,8 +7,6 @@
 [gimmick:theme (inverse: false)](darkly)
 
 [gimmick:ForkMeOnGitHub (position: 'right', color: 'darkblue')](https://www.github.com/planetlearning/planetlearning.github.io)
-[Virtual Interns]()
-
 
 [Chat](pages/chat.md)
 
