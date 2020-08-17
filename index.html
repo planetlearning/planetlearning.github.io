@@ -2841,14 +2841,15 @@ if (typeof exports === 'object') {
         // menusrc += '<ul id="md-menu-ul" class="nav navbar-nav">';
         // menusrc += '</ul></div>';
 
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
         var navbar = '';
         navbar += '<div id="md-main-navbar" class="navbar navbar-expand-lg fixed-top navbar-dark bg-primary" role="navigation">';
         navbar +=   '<div class="navbar-header">';
-        navbar +=     '<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">';
-        navbar +=       '<span class="sr-only">Toggle navigation</span>';
-        navbar +=       '<span class="icon-bar"></span>';
-        navbar +=       '<span class="icon-bar"></span>';
-        navbar +=       '<span class="icon-bar"></span>';
+        navbar +=     '<button type="button" class="navbar-toggler float-right" data-toggle="collapse" data-target=".navbar-ex1-collapse">';
+        navbar +=       '<span class="navbar-toggler-icon"></span>';
         navbar +=     '</button>';
         navbar +=     '<a class="navbar-brand" href="#!index.md"></a>';
         navbar +=   '</div>';
@@ -4455,7 +4456,7 @@ function googlemapsReady() {
         This website requires Javascript to be enabled. Please turn on Javascript
         and reload the page.
     </noscript>
-	<a href="https://github.com/treehouses"><img style="z-index:2000;width: 35px;position: fixed;margin-top: 12.5px;margin-left: 9px;" src="images/logo.png"></a>
+	<a href="https://github.com/planetlearning"><img style="z-index:2000;width: 35px;position: fixed;margin-top: 12.5px;margin-left: 9px;" src="images/logo.png"></a>
     <div id="md-all">
     </div>
 </body>
