@@ -2842,22 +2842,29 @@ if (typeof exports === 'object') {
         // menusrc += '</ul></div>';
 
         var navbar = '';
-        navbar += '<div id="md-main-navbar" class="navbar navbar-default navbar-fixed-top" role="navigation">';
-        navbar +=   '<div class="navbar-header">';
-        navbar +=     '<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">';
-        navbar +=       '<span class="sr-only">Toggle navigation</span>';
-        navbar +=       '<span class="icon-bar"></span>';
-        navbar +=       '<span class="icon-bar"></span>';
-        navbar +=       '<span class="icon-bar"></span>';
-        navbar +=     '</button>';
-        navbar +=     '<a class="navbar-brand" href="#!index.md"></a>';
-        navbar +=   '</div>';
+        navbar += '<nav class="navbar navbar-expand-lg navbar-dark bg-primary">';
+        navbar += '<a class="navbar-brand" href="#">Navbar</a>';
+        navbar += '<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">';
+        navbar += '<span class="navbar-toggler-icon"></span>';
+        navbar += '</button>';
 
-        navbar +=   '<div class="collapse navbar-collapse navbar-ex1-collapse">';
-        navbar +=     '<ul class="nav navbar-nav" />';
-        navbar +=     '<ul class="nav navbar-nav navbar-right" />';
-        navbar +=   '</div>';
+        navbar += '<div class="collapse navbar-collapse" id="navbarColor01">';
+        navbar += '<ul class="navbar-nav mr-auto">';
+        navbar += '<li class="nav-item active">';
+        navbar += '<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>';
+        navbar += '</li>';
+        navbar += '<li class="nav-item dropdown">';
+        navbar += '<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>';
+        navbar += '<div class="dropdown-menu">';
+        navbar += '<a class="dropdown-item" href="#">Action</a>';
+        navbar += '<a class="dropdown-item" href="#">Another action</a>';     navbar += '<a class="dropdown-item" href="#">Something else here</a>';
+        navbar += '<div class="dropdown-divider"></div>';
+        navbar += '<a class="dropdown-item" href="#">Separated link</a>';
         navbar += '</div>';
+        navbar += '</li>';
+        navbar += '</ul>';
+        navbar += '</div>';
+        navbar += '</nav>';
         var $navbar = $(navbar);
 
         $navbar.appendTo('#md-menu');

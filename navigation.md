@@ -4,7 +4,7 @@
 
 # planetlearning.github.io
 
-[gimmick:theme (inverse: false)](cyborg)
+[gimmick:theme (inverse: true)](cyborg)
 
 [gimmick:ForkMeOnGitHub (position: 'right', color: 'darkblue')](https://www.github.com/planetlearning/planetlearning.github.io)
 
