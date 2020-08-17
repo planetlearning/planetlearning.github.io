@@ -2958,7 +2958,7 @@ if (typeof exports === 'object') {
                 prev.append($('<li class="divider"/>'));
                 hr.remove();
                 if (next.is('ul')) {
-                    next.find('li').appendTo(prev);
+                    next.find('li').addClass('nav-link').appendTo(prev);
                     next.remove();
                 }
                 // next ul should now be empty
@@ -2972,6 +2972,7 @@ if (typeof exports === 'object') {
             if (ul.find('li').length === 0) {
                 ul.remove();
             }
+            ul.find('li').addClass('nav-link');
         });
 
         $('#md-menu hr').replaceWith($('<li class="divider-vertical"/>'));
