@@ -2978,7 +2978,7 @@ if (typeof exports === 'object') {
 
 
         // wrap the toplevel links in <li>
-        $('#md-menu > a').wrap('<li />');
+        $('#md-menu > a').wrap('<li class="nav-link" />');
         $('#md-menu ul').each(function(i,e) {
             var ul = $(e);
             ul.appendTo(ul.prev());

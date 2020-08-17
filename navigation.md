@@ -2,7 +2,7 @@
 
 <!-- See additional notes below -->
 
-# planetlearning.github.io
+# PlanetLearning
 
 [gimmick:theme (inverse: true)](cyborg)
 
