@@ -2,9 +2,9 @@
 
 <!-- See additional notes below -->
 
-# planetlearning.github.io
+# PlanetLearning
 
-[gimmick:theme (inverse: false)](darkly)
+[gimmick:theme (inverse: true)](cyborg)
 
 [gimmick:ForkMeOnGitHub (position: 'right', color: 'darkblue')](https://www.github.com/planetlearning/planetlearning.github.io)
 
