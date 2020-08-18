@@ -11,6 +11,6 @@ The  project ...
 
 
 #### Become a Virtual Intern!
-Follow the [first steps]() in order to learn how.
+Follow the [first steps](pages/vi/firststeps.md) in order to learn how.
 
 **Find Us On:** [Linkedin](https://www.linkedin.com/company/open-learning-exchange) | [Twitter](https://twitter.com/oleorg) | [Facebook](https://www.facebook.com/openlearningexchange/)
