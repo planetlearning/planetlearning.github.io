@@ -17,15 +17,44 @@ We also want you to keep us updated a relatively good amount in the [Slack chat]
 
 ## Step 0 - Introductory Steps
 
-1. Complete the [New Virtual Intern Application form](). If you have already done this after being invited to join the team then good job, you're all set!
+1. Complete the [New Virtual Intern Application form](https://docs.google.com/forms/d/e/1FAIpQLScG3PB5xvWfwowgqsCI8AVwb1yrv71YZmC9lWL1O7OyT2KVOg). If you have already done this after being invited to join the team then good job, you're all set!
 
 2. Connect to our [Slack chat channel](pages/chat.md)
+
+### Setting up your environment
+
+We interact with a command terminal which is natively available for both Mac and Linux based systems. If however you are on a Windows device, [Git Bash](https://git-scm.com/download/win) is highly recommended.
+
+### Working with Vi & Vim
+
+One of the most simple but most powerful text editors out there is Vim. If you want to see what Vim can do and how powerful it can be, you can learn more about Vim [here](https://danielmiessler.com/study/vim/#textobjects).
+
 
 ## Step 1 - Github
 
 1. Log into your [GitHub account](https://github.com/) then watch [planetlearning.github.io repo](https://github.com/planetlearning/planetlearning.github.io) and Follow [Dogi](https://github.com/dogi) and [Lmmrssa](https://github.com/lmmrssa) on GitHub.
 
 In GitHub, we "[Watch](https://help.github.com/en/articles/watching-and-unwatching-repositories)" organization repositories and ["Follow" (https://help.github.com/en/articles/following-people) individuals. Look for the "Watch" button at the top right of the page when you are in a repository.  Also, follow each other to see what others in the group are doing.
+
+2. Install Git
+
+3. Clone Planet Learning repository
+
+## Step 2 - Markdown
+
+Follow the instructions on [GitHub and Markdown](githubandmarkdown.md)
+
+Make sure that you've linked to your github.io and pull request in the [Slack chat](). Also, include the `raw.githack` link in your pull request `https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md`
+
+**NOTE**: The `raw.githack` link is case sensitive to your username. 
+
+
+> Once you complete Step 3 you will have:
+
+* 1 Pull request made
+
+Check your progress [here](trackprogress.md)
+
 
 
 
