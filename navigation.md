@@ -8,6 +8,10 @@
 
 [gimmick:ForkMeOnGitHub (position: 'right', color: 'darkblue')](https://www.github.com/planetlearning/planetlearning.github.io)
 
+[Virtual Interns]()
+
+  * [**Introduction / First Steps**](pages/vi/firststeps.md)
+
 [Chat](pages/chat.md)
 
 

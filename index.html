@@ -136,7 +136,7 @@
 <!-- START mdwiki/extlib/css/highlight.github.css -->
 <style id="style:mdwiki/extlib/css/highlight.github.css">pre code{display:block;padding:.5em;color:#333;background:#f8f8ff}pre .comment,pre .template_comment,pre .diff .header,pre .javadoc{color:#998;font-style:italic}pre .keyword,pre .css .rule .keyword,pre .winutils,pre .javascript .title,pre .nginx .title,pre .subst,pre .request,pre .status{color:#333;font-weight:bold}pre .number,pre .hexcolor,pre .ruby .constant{color:#099}pre .string,pre .tag .value,pre .phpdoc,pre .tex .formula{color:#d14}pre .title,pre .id{color:#900;font-weight:bold}pre .javascript .title,pre .lisp .title,pre .clojure .title,pre .subst{font-weight:normal}pre .class .title,pre .haskell .type,pre .vhdl .literal,pre .tex .command{color:#458;font-weight:bold}pre .tag,pre .tag .title,pre .rules .property,pre .django .tag .keyword{color:#000080;font-weight:normal}pre .attribute,pre .variable,pre .lisp .body{color:#008080}pre .regexp{color:#009926}pre .class{color:#458;font-weight:bold}pre .symbol,pre .ruby .symbol .string,pre .lisp .keyword,pre .tex .special,pre .prompt{color:#990073}pre .built_in,pre .lisp .title,pre .clojure .built_in{color:#0086b3}pre .preprocessor,pre .pi,pre .doctype,pre .shebang,pre .cdata{color:#999;font-weight:bold}pre .deletion{background:#fdd}pre .addition{background:#dfd}pre .diff .change{background:#0086b3}pre .chunk{color:#aaa}</style><!-- END mdwiki/extlib/css/highlight.github.css -->
 <!-- START mdwiki/extlib/css/bootstrap-3.0.0.min.css -->
-<style id="style:mdwiki/extlib/css/bootstrap-4.0.0.min.css">@import url("https://fonts.googleapis.com/css?family=Lato:400,700,400italic");/*!
+<style id="style:mdwiki/extlib/css/bootstrap-3.0.0.min.css">@import url("https://fonts.googleapis.com/css?family=Lato:400,700,400italic");/*!
  * bootswatch v3.4.1
  * Homepage: http://bootswatch.com
  * Copyright 2012-2019 Thomas Park
@@ -2842,10 +2842,13 @@ if (typeof exports === 'object') {
         // menusrc += '</ul></div>';
 
         var navbar = '';
-        navbar += '<div id="md-main-navbar" class="navbar navbar-expand-lg fixed-top navbar-dark bg-primary" role="navigation">';
+        navbar += '<div id="md-main-navbar" class="navbar navbar-default navbar-fixed-top label-primary" role="navigation">';
         navbar +=   '<div class="navbar-header">';
-        navbar +=     '<button type="button" class="navbar-toggler float-right" data-toggle="collapse" data-target=".navbar-ex1-collapse">';
-        navbar +=       '<span class="navbar-toggler-icon"></span>';
+        navbar +=     '<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">';
+        navbar +=       '<span class="sr-only">Toggle navigation</span>';
+        navbar +=       '<span class="icon-bar"></span>';
+        navbar +=       '<span class="icon-bar"></span>';
+        navbar +=       '<span class="icon-bar"></span>';
         navbar +=     '</button>';
         navbar +=     '<a class="navbar-brand" href="#!index.md"></a>';
         navbar +=   '</div>';
@@ -2856,6 +2859,7 @@ if (typeof exports === 'object') {
         navbar +=   '</div>';
         navbar += '</div>';
         var $navbar = $(navbar);
+
 
         $navbar.appendTo('#md-menu');
         // .eq(0) becase we dont want navbar-right to be appended to
@@ -4036,20 +4040,20 @@ function googlemapsReady() {
     'use strict';
 
     var themes = [
-        { name: 'original', url: 'netdna.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css' },
-        { name: 'amelia', url: 'netdna.bootstrapcdn.com/bootswatch/4.0.0/amelia/bootstrap.min.css' },
-        { name: 'cerulean', url: 'netdna.bootstrapcdn.com/bootswatch/4.0.0/cerulean/bootstrap.min.css' },
-        { name: 'cosmo', url: 'netdna.bootstrapcdn.com/bootswatch/4.0.0/cosmo/bootstrap.min.css' },
-        { name: 'cyborg', url: 'netdna.bootstrapcdn.com/bootswatch/4.0.0/cyborg/bootstrap.min.css' },
-        { name: 'bootstrap', url: 'netdna.bootstrapcdn.com/bootswatch/4.0.0/flatly/bootstrap.min.css' },
-        { name: 'flatly', url: 'netdna.bootstrapcdn.com/bootswatch/4.0.0/flatly/bootstrap.min.css' },
-        { name: 'journal', url: 'netdna.bootstrapcdn.com/bootswatch/4.0.0/journal/bootstrap.min.css' },
-        { name: 'readable', url: 'netdna.bootstrapcdn.com/bootswatch/4.0.0/readable/bootstrap.min.css' },
-        { name: 'simplex', url: 'netdna.bootstrapcdn.com/bootswatch/4.0.0/simplex/bootstrap.min.css' },
-        { name: 'slate', url: 'netdna.bootstrapcdn.com/bootswatch/4.0.0/slate/bootstrap.min.css' },
-        { name: 'spacelab', url: 'netdna.bootstrapcdn.com/bootswatch/4.0.0/spacelab/bootstrap.min.css' },
-        { name: 'united', url: 'netdna.bootstrapcdn.com/bootswatch/4.0.0/united/bootstrap.min.css' },
-        { name: 'yeti', url: 'netdna.bootstrapcdn.com/bootswatch/4.0.0/yeti/bootstrap.min.css' }
+        { name: 'original', url: 'netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css' },
+        { name: 'amelia', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.0/amelia/bootstrap.min.css' },
+        { name: 'cerulean', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.0/cerulean/bootstrap.min.css' },
+        { name: 'cosmo', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.0/cosmo/bootstrap.min.css' },
+        { name: 'cyborg', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.0/cyborg/bootstrap.min.css' },
+        { name: 'bootstrap', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.0/flatly/bootstrap.min.css' },
+        { name: 'flatly', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.0/flatly/bootstrap.min.css' },
+        { name: 'journal', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.0/journal/bootstrap.min.css' },
+        { name: 'readable', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.0/readable/bootstrap.min.css' },
+        { name: 'simplex', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.0/simplex/bootstrap.min.css' },
+        { name: 'slate', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.0/slate/bootstrap.min.css' },
+        { name: 'spacelab', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.0/spacelab/bootstrap.min.css' },
+        { name: 'united', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.0/united/bootstrap.min.css' },
+        { name: 'yeti', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.0/yeti/bootstrap.min.css' }
     ];
     var useChooser = false;
     var themeChooserGimmick = {
