@@ -49,7 +49,7 @@ Make sure that you've linked to your github.io and pull request in the [Slack ch
 **NOTE**: The `raw.githack` link is case sensitive to your username. 
 
 
-> Once you complete Step 3 you will have:
+> Once you complete Step 2 you will have:
 
 * 1 Pull request made
 

@@ -28,7 +28,7 @@ Please go to [http://localhost:3100](http://localhost:3100) or run `vagrant glob
 
 ## Windows
 
-Open browser and browse [http://localhost:3100](http://localhost:3100). You should see the user interface of application (see below).  If you get an `Unable to connect` page, check out Q14 at [FAQ](vi-faq.md#Technical_Questions).
+Open browser and browse [http://localhost:3100](http://localhost:3100). You should see the user interface of application (see below).  If you get an `Unable to connect` page, check out Q14 at [FAQ]().
 
 ## Database
 [CouchDB](https://en.wikipedia.org/wiki/CouchDB) (also known as Apache CouchDB) is a database software that we use for the Planet. You can see the backend interface of our CouchDB at http://localhost:2300/_utils. In _utils, you have the opportunity to see all data of your Planet application.
@@ -37,7 +37,7 @@ Open browser and browse [http://localhost:3100](http://localhost:3100). You shou
 ## User Interface
 To see the actual user interface, go to http://localhost:3100. You will be shown the page below. Make sure you remember the credentials.
 
-![Become an Administrator](images/vi-become-admin.png)
+![Become an Administrator](../../images/planet-become-admin.png)
 
 WARNING: Before you finish the registration, do not close your browser.
 You cannot go to the above registration form again.
@@ -45,17 +45,17 @@ If you are in this situation, look at the ** [Second element of Troubleshooting 
 
 Next, fill out the configurations. Your name must be the same and should match your GitHub name so we can easily locate your community in Virtual Intern Nation. Pick **Virtual Intern Nation (vi)** for nation as in the example below. **After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the [Slack chat]() after submitting your registration request.**
 
-![Configurations](images/vi-configuration.png)
+![Configurations](../../images/planet-configuration.png)
 
 **Note:** *To add images in the chat, just drag the image from your directory to the browser context and drop it in the messaging area or simply copy and paste the image.*
 
 Next, you will see a form that requires the contact details of the administrator (maintainer) of the community. Please provide your contact information.
 
-![Contact Details](images/vi-contact-details.png)
+![Contact Details](../../images/planet-contact-details.png)
 
 Then, click on the **"Submit"** button. Your registration request for your community will be sent to the nation side for approval. You will see the following message.
 
-![Community Accepted into the Nation](images/vi-registration-accepted.png)
+![Community Accepted into the Nation](../../images/planet-registration-accepted.png)
 
 Now you can login with the admin credential you created.
 
