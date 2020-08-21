@@ -34,7 +34,7 @@ One of the most simple but most powerful text editors out there is Vim. If you w
 
 1. Log into your [GitHub account](https://github.com/) then watch [planetlearning.github.io repo](https://github.com/planetlearning/planetlearning.github.io) and Follow [Dogi](https://github.com/dogi) and [Lmmrssa](https://github.com/lmmrssa) on GitHub.
 
-In GitHub, we "[Watch](https://help.github.com/en/articles/watching-and-unwatching-repositories)" organization repositories and ["Follow" (https://help.github.com/en/articles/following-people) individuals. Look for the "Watch" button at the top right of the page when you are in a repository.  Also, follow each other to see what others in the group are doing.
+  In GitHub, we "[Watch](https://help.github.com/en/articles/watching-and-unwatching-repositories)" organization repositories and ["Follow" (https://help.github.com/en/articles/following-people) individuals. Look for the "Watch" button at the top right of the page when you are in a repository.  Also, follow each other to see what others in the group are doing.
 
 2. Using [GitHub](github.md)
 
