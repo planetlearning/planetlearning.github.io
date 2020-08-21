@@ -67,5 +67,8 @@ There are 3 sub-steps in this step:
 3. [Vagrant Tutorial](#!./pages/vi/vagrant.md)
   **Vagrant** is an open-source software product for building and maintaining portable virtual software development environments. In th is step, you will learn about how to interact with Vagrant through the command-line interface.
 
+## Step 4 - Keeping Fork Updated
+
+Follow the directions at [Git Repositories](gitrepositories.md) to keep your username.github.io and your local repository up to date.
 
 
