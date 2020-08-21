@@ -136,7 +136,7 @@
 <!-- START mdwiki/extlib/css/highlight.github.css -->
 <style id="style:mdwiki/extlib/css/highlight.github.css">pre code{display:block;padding:.5em;color:#333;background:#f8f8ff}pre .comment,pre .template_comment,pre .diff .header,pre .javadoc{color:#998;font-style:italic}pre .keyword,pre .css .rule .keyword,pre .winutils,pre .javascript .title,pre .nginx .title,pre .subst,pre .request,pre .status{color:#333;font-weight:bold}pre .number,pre .hexcolor,pre .ruby .constant{color:#099}pre .string,pre .tag .value,pre .phpdoc,pre .tex .formula{color:#d14}pre .title,pre .id{color:#900;font-weight:bold}pre .javascript .title,pre .lisp .title,pre .clojure .title,pre .subst{font-weight:normal}pre .class .title,pre .haskell .type,pre .vhdl .literal,pre .tex .command{color:#458;font-weight:bold}pre .tag,pre .tag .title,pre .rules .property,pre .django .tag .keyword{color:#000080;font-weight:normal}pre .attribute,pre .variable,pre .lisp .body{color:#008080}pre .regexp{color:#009926}pre .class{color:#458;font-weight:bold}pre .symbol,pre .ruby .symbol .string,pre .lisp .keyword,pre .tex .special,pre .prompt{color:#990073}pre .built_in,pre .lisp .title,pre .clojure .built_in{color:#0086b3}pre .preprocessor,pre .pi,pre .doctype,pre .shebang,pre .cdata{color:#999;font-weight:bold}pre .deletion{background:#fdd}pre .addition{background:#dfd}pre .diff .change{background:#0086b3}pre .chunk{color:#aaa}</style><!-- END mdwiki/extlib/css/highlight.github.css -->
 <!-- START mdwiki/extlib/css/bootstrap-3.0.0.min.css -->
-<style id="style:mdwiki/extlib/css/bootstrap-3.0.0.min.css">@import url("https://fonts.googleapis.com/css?family=Lato:400,700,400italic");@import url("//fonts.googleapis.com/css?family=Droid+Sans:400,700");/*!
+<style id="style:mdwiki/extlib/css/bootstrap-3.0.0.min.css">@import url("//fonts.googleapis.com/css?family=Droid+Sans:400,700");/*!
     * Bootstrap v3.0.0
     *
     * Copyright 2013 Twitter, Inc
@@ -4042,7 +4042,7 @@ function googlemapsReady() {
         { name: 'amelia', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.0/amelia/bootstrap.min.css' },
         { name: 'cerulean', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.0/cerulean/bootstrap.min.css' },
         { name: 'cosmo', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.0/cosmo/bootstrap.min.css' },
-        //{ name: 'cyborg', url: '/mdwiki/extlib/css/bootstrap-3.0.0.min.css' },
+        { name: 'cyborg', url: 'mdwiki/extlib/css/bootstrap-3.0.0.min.css' },
         /*{ name: 'cyborg', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.0/cyborg/bootstrap.min.css' },*/
         { name: 'bootstrap', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.0/flatly/bootstrap.min.css' },
         { name: 'flatly', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.0/flatly/bootstrap.min.css' },
@@ -4098,7 +4098,8 @@ function googlemapsReady() {
             $('style[id*=bootstrap]').remove();
 
             $('<link rel="stylesheet" type="text/css">')
-                .attr('href', $.md.prepareLink(theme.url))
+                //.attr('href', $.md.prepareLink(theme.url))
+                .attr('href', theme.url)
                 .appendTo('head');
         }
 
