@@ -36,13 +36,11 @@ One of the most simple but most powerful text editors out there is Vim. If you w
 
 In GitHub, we "[Watch](https://help.github.com/en/articles/watching-and-unwatching-repositories)" organization repositories and ["Follow" (https://help.github.com/en/articles/following-people) individuals. Look for the "Watch" button at the top right of the page when you are in a repository.  Also, follow each other to see what others in the group are doing.
 
-2. Install Git
-
-3. Clone Planet Learning repository
+2. Using [GitHub](github.md)
 
 ## Step 2 - Markdown
 
-Follow the instructions on [GitHub and Markdown](githubandmarkdown.md)
+Follow the instructions on [Markdown](markdown.md)
 
 Make sure that you've linked to your github.io and pull request in the [Slack chat](). Also, include the `raw.githack` link in your pull request `https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md`
 
