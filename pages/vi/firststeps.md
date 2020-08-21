@@ -71,4 +71,9 @@ There are 3 sub-steps in this step:
 
 Follow the directions at [Git Repositories](gitrepositories.md) to keep your username.github.io and your local repository up to date.
 
+## Step 5 - myPlanet Tutorial
+
+This step includes the [myPlanet Tutorial](myplanet.md), which explains about Android application.
+
+
 
