@@ -4093,14 +4093,14 @@ function googlemapsReady() {
         var has_default_bootstrap_css = $('style[id*=bootstrap]').length > 0;
 
         //if (theme.name !== 'bootstrap' || !has_default_bootstrap_css) {
-        /*if (theme.name !== 'cyborg' || !has_default_bootstrap_css) {
+        if (theme.name !== 'cyborg' || !has_default_bootstrap_css) {
             // in devel & fat version the style is inlined, remove it
             $('style[id*=bootstrap]').remove();
 
             $('<link rel="stylesheet" type="text/css">')
                 .attr('href', $.md.prepareLink(theme.url))
                 .appendTo('head');
-        }*/
+        }
 
         if (theme.inverse === true) {
             $('#md-main-navbar').removeClass ('navbar-default');
