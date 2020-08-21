@@ -34,15 +34,13 @@ One of the most simple but most powerful text editors out there is Vim. If you w
 
 1. Log into your [GitHub account](https://github.com/) then watch [planetlearning.github.io repo](https://github.com/planetlearning/planetlearning.github.io) and Follow [Dogi](https://github.com/dogi) and [Lmmrssa](https://github.com/lmmrssa) on GitHub.
 
-In GitHub, we "[Watch](https://help.github.com/en/articles/watching-and-unwatching-repositories)" organization repositories and ["Follow" (https://help.github.com/en/articles/following-people) individuals. Look for the "Watch" button at the top right of the page when you are in a repository.  Also, follow each other to see what others in the group are doing.
+  In GitHub, we "[Watch](https://help.github.com/en/articles/watching-and-unwatching-repositories)" organization repositories and ["Follow" (https://help.github.com/en/articles/following-people) individuals. Look for the "Watch" button at the top right of the page when you are in a repository.  Also, follow each other to see what others in the group are doing.
 
-2. Install Git
-
-3. Clone Planet Learning repository
+2. Using [GitHub](github.md)
 
 ## Step 2 - Markdown
 
-Follow the instructions on [GitHub and Markdown](githubandmarkdown.md)
+Follow the instructions on [Markdown](markdown.md)
 
 Make sure that you've linked to your github.io and pull request in the [Slack chat](). Also, include the `raw.githack` link in your pull request `https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md`
 
@@ -68,6 +66,14 @@ There are 3 sub-steps in this step:
 
 3. [Vagrant Tutorial](#!./pages/vi/vagrant.md)
   **Vagrant** is an open-source software product for building and maintaining portable virtual software development environments. In th is step, you will learn about how to interact with Vagrant through the command-line interface.
+
+## Step 4 - Keeping Fork Updated
+
+Follow the directions at [Git Repositories](gitrepositories.md) to keep your username.github.io and your local repository up to date.
+
+## Step 5 - myPlanet Tutorial
+
+This step includes the [myPlanet Tutorial](myplanet.md), which explains about Android application.
 
 
 
