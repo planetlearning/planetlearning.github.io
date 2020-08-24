@@ -12,6 +12,12 @@
 
   * [**Introduction / First Steps**](pages/vi/firststeps.md)
 
+[Manual]()
+
+  * [**Planet**](pages/manual/planet.md)
+  * [**myPlanet**](pages/manual/myplanet.md)
+  * [**treehouses**](pages/manual/treehouses.md)
+
 [Chat](pages/chat.md)
 
 

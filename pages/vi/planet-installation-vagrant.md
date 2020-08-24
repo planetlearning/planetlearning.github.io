@@ -148,10 +148,3 @@ At this early stage, the simple solution would be using `vagrant destroy prod` t
 6. If the command `vagrant up prod` is not working, try to install [Virtual Box version 5.1](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1).
 
 7. On Windows, if you are unable to run the PowerShell command at the beginning of Step 1 and get the error `powershell is not recognized as an internal or external command`. Try to add the following path variable to your system variables under Advanced Settings: `%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;`
-
-## Next Section ([Step 1.2](configurations-vagrant.md)) **→**
-
-Now  you have installed your community Planet, head over to [Planet Configurations](#!./pages/vi/configurations-vagrant.md) to register your community with the nation.
-
-
-

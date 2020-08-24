@@ -75,5 +75,14 @@ Follow the directions at [Git Repositories](gitrepositories.md) to keep your use
 
 This step includes the [myPlanet Tutorial](myplanet.md), which explains about Android application.
 
+## Step 6 - Treehouses Tutorial
+
+## Step 7 - Using Planet
+
+## Step 8 - Creating Angular mini-project
+
+## Step 9 - Join the team
+
+
 
 
