@@ -71,18 +71,25 @@ There are 3 sub-steps in this step:
 
 Follow the directions at [Git Repositories](gitrepositories.md) to keep your username.github.io and your local repository up to date.
 
-## Step 5 - myPlanet Tutorial
+## Step 5 - myPlanet
 
 This step includes the [myPlanet Tutorial](myplanet.md), which explains about Android application.
 
-## Step 6 - Treehouses Tutorial
+## Step 6 - Treehouses
+
+Treehouses is a cli application, developed with features to help and maintain server and run different services. Go through [Treehouses Manual](../manual/treehouses.md) to understand different functionality and commands of treehouses.io(https://treehouses.io).
 
 ## Step 7 - Using Planet
 
-## Step 8 - Creating Angular mini-project
+1. This step includes the [Planet Manual](../manual/planet.md), which explains different features and usage of Planet system.
+
+2. You should search for Courses and Resources under Collection **Planet Learning** and take those Courses and Resources
+
+## Step 8 - Try Angular
 
 ## Step 9 - Join the team
 
+Next thing is to post a screenshot of your completed progress to the Slack chat. Click [here](trackprogress.md) to find your completed progress.
+Message us ("@/all" and "@dogi") and ask about adding yourself to the virtual intern list found in [team.md](team.md) and setting up a meeting so you can become a part of the team as soon as possible.
 
-
-
+Make sure to read through the [orientation document](orientation.md) before the meeting.
