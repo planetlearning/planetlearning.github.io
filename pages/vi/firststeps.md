@@ -73,11 +73,15 @@ Follow the directions at [Git Repositories](gitrepositories.md) to keep your use
 
 ## Step 5 - myPlanet
 
-This step includes the [myPlanet Tutorial](myplanet.md), which explains about Android application.
+myPlanet is Android application of Planet. myPlanet can be run offline considering it is synced with Planet periodically to keep data upto date.
+
+1. There is course on Planet regarding installing myPlanet, please go through that course.
+
+2. Read [myPlanet Manual](../manual/myPlanet.md) and create 2 pull request improving myPlanet manual.
 
 ## Step 6 - Treehouses
 
-Treehouses is a cli application, developed with features to help and maintain server and run different services. Go through [Treehouses Manual](../manual/treehouses.md) to understand different functionality and commands of treehouses.io(https://treehouses.io).
+Treehouses is a cli application, developed with features to help and maintain server and run different services. Go through [Treehouses Manual](../manual/treehouses.md) to understand different functionality and commands of [treehouses.io](https://treehouses.io).
 
 ## Step 7 - Using Planet
 
