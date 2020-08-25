@@ -57,7 +57,6 @@ Check your progress [here](trackprogress.md)
 
 There are 3 sub-steps in this step:
 
-
 1. [Planet Installation with Vagrant](#!./pages/vi/planet-installation-vagrant.md)
   The **Planet** is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources. In this step, you will learn about how to set up your own Community Planet using vagrant.
 
@@ -66,6 +65,8 @@ There are 3 sub-steps in this step:
 
 3. [Vagrant Tutorial](#!./pages/vi/vagrant.md)
   **Vagrant** is an open-source software product for building and maintaining portable virtual software development environments. In th is step, you will learn about how to interact with Vagrant through the command-line interface.
+
+4. Please complete course in Planet regarding Vagrant.
 
 ## Step 4 - Keeping Fork Updated
 
