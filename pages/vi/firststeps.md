@@ -46,7 +46,6 @@ Make sure that you've linked to your github.io and pull request in the [Slack ch
 
 **NOTE**: The `raw.githack` link is case sensitive to your username. 
 
-
 > Once you complete Step 2 you will have:
 
 * 1 Pull request made
@@ -57,7 +56,6 @@ Check your progress [here](trackprogress.md)
 
 There are 3 sub-steps in this step:
 
-
 1. [Planet Installation with Vagrant](#!./pages/vi/planet-installation-vagrant.md)
   The **Planet** is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources. In this step, you will learn about how to set up your own Community Planet using vagrant.
 
@@ -67,13 +65,43 @@ There are 3 sub-steps in this step:
 3. [Vagrant Tutorial](#!./pages/vi/vagrant.md)
   **Vagrant** is an open-source software product for building and maintaining portable virtual software development environments. In th is step, you will learn about how to interact with Vagrant through the command-line interface.
 
+4. Please complete course in Planet regarding Vagrant.
+
 ## Step 4 - Keeping Fork Updated
 
 Follow the directions at [Git Repositories](gitrepositories.md) to keep your username.github.io and your local repository up to date.
 
-## Step 5 - myPlanet Tutorial
+## Step 5 - myPlanet
 
-This step includes the [myPlanet Tutorial](myplanet.md), which explains about Android application.
+myPlanet is Android application of Planet. myPlanet can be run offline considering it is synced with Planet periodically to keep data upto date.
 
+1. There is course on Planet regarding installing myPlanet, please go through that course.
 
+2. Read [myPlanet Manual](../manual/myPlanet.md) and create 2 pull request improving myPlanet manual.
 
+> Once you complete Step 5 you will have:
+
+* 2 new pull request made
+
+Check your progress [here](trackprogress.md)
+
+## Step 6 - Treehouses
+
+Treehouses is a cli application, developed with features to help and maintain server and run different services. Go through [Treehouses Manual](../manual/treehouses.md) to understand different functionality and commands of [treehouses.io](https://treehouses.io).
+
+## Step 7 - Using Planet
+
+1. This step includes the [Planet Manual](../manual/planet.md), which explains different features and usage of Planet system.
+
+2. You should search for Courses and Resources under Collection **Planet Learning** and take those Courses and Resources
+
+## Step 8 - Try Angular
+
+Go through Course in Planet which will walk through starting new angular project.
+
+## Step 9 - Join the team
+
+Next thing is to post a screenshot of your completed progress to the Slack chat. Click [here](trackprogress.md) to find your completed progress.
+Message us ("@/all" and "@dogi") and ask about adding yourself to the virtual intern list found in [team.md](team.md) and setting up a meeting so you can become a part of the team as soon as possible.
+
+Make sure to read through the [orientation document](orientation.md) before the meeting.

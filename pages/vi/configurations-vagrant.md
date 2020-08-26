@@ -87,7 +87,3 @@ in your planet folder. This destroys and removes your community, pulls the lates
   In order to fix this problem, simply follow the procedures stated above in step 3: use `vagrant destroy prod`, then `vagrant up prod`. Afterwards, use a slightly different name for your configuration, take a screenshot of the new configuration page, and post it to the [Slack chat]().
 
 5. When you are trying to access http://localhost:3100 the page may not load at all, even if your account was configured correctly and fully approved. A first step would be to run `vagrant halt prod`. Then, you should proceed to clear the cookies from your browser. This step will be different for each browser. Finally, you should run `vagrant up prod` to restart the VM before you reopen the browser to access the Planet again. **If this does not work, follow the previous steps above to rebuild your planet account.**
-
-## Next Section ([Step 1.3](vagrant.md)) **→**
-
-Now you have configured your community Planet, head over to [Vagrant Tutorial](vagrant.md) to learn about how to interact with Vagrant through the command-line interface. You should be familiar with this since you will need to use it to control virtual machines during your internship.
