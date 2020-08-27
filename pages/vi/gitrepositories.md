@@ -15,7 +15,7 @@ You previously forked a repository from planetlearning to work on, which means t
 ## Summary of Steps
 Generally, this is what the structure of your workflow will look like: 
 
-![Image](../../images/upstream_diagram.png)
+![Image](images/upstream_diagram.png)
 
 Use the following commands in your command line, but refer back to the descriptions above if there are any errors or further questions about why you are using them:
 
