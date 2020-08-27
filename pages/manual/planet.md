@@ -23,9 +23,9 @@ The Planet system exists in the cloud but it can also be configured to run local
 
 Under the Planet system, there are two types of structures: **Nations** and **Communities**.
 
-![Planet System Hierarchy Chart](images/planet-nations-tree.png)
+![Planet System Hierarchy Chart](../../images/planet-nations-tree.png)
 
-![Planet System Flow Chart](images/planet-nations-bubbles.png)
+![Planet System Flow Chart](../../images/planet-nations-bubbles.png)
 
 * **Nations**
   * **Nations** always exist in the cloud and require an internet connection to access.
@@ -129,7 +129,7 @@ There are two ways to get to the Courses page:
 
 ![Getting to courses with dashboard](../../images/get-courses-tile.png)
 
-## List of Courses
+### List of Courses
 
 Upon getting to the courses page, you will be greeted a page similar to the following, with each course being an item in a list.
 
@@ -139,7 +139,7 @@ By clicking on "Title", or "Rating", you are able to sort the course list accord
 
 ![Menu](../../images/sorting-courses.png)
 
-## Actions on List Page
+### Actions on List Page
 
 * Action Menu
 
@@ -193,7 +193,7 @@ At the bottom-right of the page, you can see your pagination options. You are ab
 
 ![Pagination](../../images/courses-pagination.png)
 
-## Adding Course
+### Adding Course
 
 To begin adding a course, press the "+" button on the action menu.
 
@@ -306,7 +306,7 @@ For multiple choice questions, click the "Add Choice" button to create a choice 
 
 Fill out the appropriate fields on however many questions you want for this survey. When you are finished, press the "Preview Survey" button to preview how your survey will look, then press the "Save" button to save the entire survey.
 
-## Course Collections
+### Course Collections
 
 Course collections are the categories that a course can have, assisting in finding a desired course when you want to search your list of courses by category.
 
@@ -326,7 +326,7 @@ You are also able to edit the course's name or subcollection status from this mo
 
 Note that this filtering is not retroactive, and clicking on a subcollection to click on its supercollection afterwards will not update the filtering to filter by the supercollection.
 
-## Taking a Test
+### Taking a Test
 
 In order to take a test, you must first [join](#Actions_on_List_Page) the course. If you have not joined the course, you will only see the Preview button and not the Take Test button. The visuals of both are identical, but while previewing, you will not be able to submit your answers.
 
@@ -360,7 +360,7 @@ Only a single answer may be selected by the radio buttons to the left of the ans
 
 Multiple answers may be selected by the checkboxes to the left of the answer choices. Click on "Submit Answer" to submit your selected answers. In the case that your answers are incorrect, the submission will fail and you will have to try again.
 
-## Taking a Survey
+### Taking a Survey
 
 In order to take a survey, you must first [join](#Actions_on_List_Page) the course. If you have not joined the course, you will only see the Preview button and not the Take Survey button. The visuals of both are identical, but while previewing, you will not be able to submit your answers.
 
@@ -399,6 +399,46 @@ Exams is part of Course, which is used to evaluate progress of members taking co
 
 ## Surveys
 Surveys is where you can create your survey and send it to others.
+
+### Navigating To The Survey page
+As you can see below, once you are in your planet dashboard you can access the page on the top left (Red box):
+
+![Access Survey](../../images/planet-survey.png)
+
+### Adding a survey
+Clicking on the plus icon to add a survey, as shown below: 
+
+![Add Survey](../../images/planet-add-survey.png)
+
+You will come to this page. Here you will need to add a **Title of a survey** 
+
+![Add Survey](../../images/planet-create-survey.png)
+
+Once you have a title of a survey, you have to choose **Type of your survey questions** to be able to add question(s).
+
+![Add Survey](../../images/planet-create-survey-questions.png)
+
+Once you choose the type of your survey question, you can add question details.
+
+![Add Survey](../../images/planet-question-survey-detail.png)
+
+**you can have multiple questions in one survey**
+
+As a picture shown below, you can **Return to List of a survey**, **Previous question**, **Next question**, and **Delete question**
+
+![Add Survey](../../images/planet-questions-survey-delete.png)
+
+After finish adding question(s), you can preview your survey.
+
+![Add Survey](../../images/planet-survey-preview.png)
+
+And once you finish create your survey, on your survey page , you can **Edit Survey**, **Send Survey**, and **Record Survey**
+
+![Add Survey](../../images/planet-survey-edit-send-record.png)
+
+Also, you can find your survey on **my surveys** on your Home page.
+
+![My Survey](../../images/planet-mysurvey.png)
 
 ## Teams
 Here you will be able to create teams to communicate with them, offer courses, and organize members.
@@ -458,7 +498,37 @@ After clicking the `Add Members` button, you will be able to add and remove cour
 Here, you will be able to accept or reject any members who requested to join the team
 
 ## Meetups
-Meetups is where you can coordinate meetups by creating them, joining them and more! Click [here](meetup.md) to learn more about Meetups.
+Meetups is where you can coordinate meetups by creating them, joining them and more!
+
+### Navigating To The Meetup Page
+As you can see below, once you are in your planet dashboard you can access the page using the **Dashboard Tile** (Red box) and the **Menu** (Blue box):
+
+![Access Meetup](../..images/planet-access-meetup.png)
+
+### Available Actions On Meetup Page
+1. Traversing the page. Here you can **filter and search** (Red box) for specific meetups and use the 
+**page navigation** (Blue box) to traverse the list of meetings and show the number of them on the page.
+You can also click on the plus icon (Green box) to add a new meetup (see "Adding meetups")
+
+![Access Meetup](../../images/planet-meetup-page.png)
+
+2. You can join meetups (Picture 1) and leave meetups you are apart of (Picture 2). First click on the small box on the left of the meetup to select it and pick an action (Red box).
+
+![Leave Meetup](../../images/planet-join-meetup.png)
+![Join Meetup](../../images/planet-leave-meetup.png)
+
+### Adding Meetups
+After clicking on the plus icon, you will have come to this page. Here you will need to add a **Title and a Description** (Blue box). Next you will have to pick the **duration of the meetup**, category, and location** (Red box).
+
+**Note:** If you pick the frequency to be weekly, you will be prompted to choose which days of the week the meetup will occur (as shown below).
+
+![Join Meetup](../../images/planet-create-meetup.png)
+
+
+### Inviting Others
+Once you navigate into a meetup, you will be able to invite other members by clicking the `Invite Member` button (Red box).
+
+![Invite Others To Meetup](../../images/planet-meetup-invite.png)
 
 ## News
 News is where you can view any posts made by any users.
@@ -482,9 +552,109 @@ You can reply to a story by clicking on the reply icon on the post (Purple circl
 ## Achievement
 The Library is home to the community's collection of media and other resources.
 
+### Navigating To The Achievement Page
+As you can see below, once you are in your planet dashboard you can access the page on the bottom left (Red box):
+
+![Access Achievement](../../images/planet-achievement-dashboard.png)
+
+### Adding or Editing Achievement
+On the achievement page, you will be able to either **add** or **edit** your achievements:
+
+![Achievement Page](../../images/planet-achievement-overview.png)
+
+Here, you will be prompted to input information for your achievement page.
+
+![Edit Page](../../images/planet-achievement-edit.png)
+
+### Adding Achievements & Reference
+On this page you will be able to **Enter an Achievement** or **Enter a Reference**
+
+![Edit Page2](../../images/planet-achievement-edit2.png)
+
+1. Clicking on **Enter an Achievement** will open the dialog below. You can also click on **Add Resources** to showcase the resources related to your achievement.
+
+![Enter Achievement](../../images/planet-achievement-add.png)
+
+2. Clicking on **Enter a Reference** will open the dialog:
+
+![Enter Achievement](../../images/planet-achievement-reference.png)
+
+
 ## Feedback
 Throughout planet, you will be able to give feedback on planet, courses, and more.
 
+### Giving Feedback
+As you can see, this is the feedback screen. You will be able to input if the feedback is urgent, the feedback type, and the details.
+
+![Feedback Modal](../../images/planet-feedback-modal.png)
+
+### Giving Feedback To Planet
+As you can see below, once you are in your planet dashboard you can add feedback to planet using the icon on the top (Red box)
+
+![Planet Feedback](../../images/planet-feedback-dashboard.png)
+
+### Giving Feedback To Different Items
+1. Resources
+
+    ![Resources Feedback](../../images/planet-feedback-library.png)
+
+2. Courses
+
+    ![Courses Feedback](../../images/planet-feedback-courses.png)
+
+3. Teams
+
+    ![Teams Feedback](../../images/planet-feedback-teams.png)
+
+3. Meetups
+
+    ![Meetups Feedback](../../images/planet-feedback-meetups.png)
+
+### View Feedbacks
+Firstly, you can view your feedbacks by going to the `Manager Page` (Picture 1) then `Feedbacks` (Picture 2) to view the feedback list.
+
+![Dashboard Feedback](../../images/planet-feedback-to-manager.png)
+![Manager Feedback](../../images/planet-feedback-manager.png)
+
+### Replying To Feedbacks
+First, click on view as seen below
+![View Feedback](../../images/planet-view-feedback.png)
+
+Then you can reply to it
+![Reply Feedback](../../images/planet-reply-feedback.png)
+
+### Closing And Reopening Feedbacks
+By clicking the dotted menu under actions, you will be able to close an open feedback (Picture 1) or reopen a closed one (Picture 2)
+
+![Close Feedback](../../images/planet-close-feedback.png)
+![Reopen Feedback](../../images/planet-reopen-feedback.png)
+
 ## Manager
+One of the roles in planet is the Manager. The admin, as well as other managers, will have the ability to promote members to manager, set roles, and perform tasks such as syncing the community with the nation and upgrading the local community.
+
 The Manager role comes with another set of administrative features, including viewing reports, syncing the community with the nation, and performing upgrades on the community.
+	
+### Accessing the Manager Dashboard
+	
+To access the Manager page, click on the manager icon on the home screen.
+	
+![](../../images/planet-feedback-to-manager.png)
+
+### Manager Dashboard User Interface
+	
+Here, you can view the reports, feedback, configuration, members, and reports from the planet, as well as perform Manage Sync and Upgrade.
+	
+![](../../images/planet-manager.png)
+
+### View Members (Including Roles and Profiles)
+	
+You can view the list of members by clicking on the members button. Here, you can promote/demote, set roles, and view profiles of other members.
+	
+![](../../images/planet-manager-members.png)
+
+### Manage Sync
+	
+To perform Manage Sync, simply click on the Manage Sync button in the Manager page, then click the Run Sync button.
+	
+![](../../images/planet-manager-sync.png)
 
