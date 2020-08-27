@@ -503,7 +503,7 @@ Meetups is where you can coordinate meetups by creating them, joining them and m
 ### Navigating To The Meetup Page
 As you can see below, once you are in your planet dashboard you can access the page using the **Dashboard Tile** (Red box) and the **Menu** (Blue box):
 
-![Access Meetup](../..images/planet-access-meetup.png)
+![Access Meetup](../../images/planet-access-meetup.png)
 
 ### Available Actions On Meetup Page
 1. Traversing the page. Here you can **filter and search** (Red box) for specific meetups and use the 
