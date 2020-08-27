@@ -48,7 +48,7 @@ Make sure that you've linked to your github.io and pull request in the [Slack ch
 
 > Once you complete Step 2 you will have:
 
-* 1 Pull request made
+* **1** Pull request made
 
 Check your progress [here](trackprogress.md)
 
@@ -65,7 +65,7 @@ There are 3 sub-steps in this step:
 3. [Vagrant Tutorial](#!./pages/vi/vagrant.md)
   **Vagrant** is an open-source software product for building and maintaining portable virtual software development environments. In th is step, you will learn about how to interact with Vagrant through the command-line interface.
 
-4. Please complete course in Planet regarding Vagrant.
+4. Please complete course in Planet under collection **Planet Learning** regarding Vagrant.
 
 ## Step 4 - Keeping Fork Updated
 
@@ -77,11 +77,11 @@ myPlanet is Android application of Planet. myPlanet can be run offline consideri
 
 1. There is course on Planet regarding installing myPlanet, please go through that course.
 
-2. Read [myPlanet Manual](../manual/myPlanet.md) and create 2 pull request improving myPlanet manual.
+2. Read [myPlanet Manual](../manual/myPlanet.md) and create at least **2 issues** and **pull request** improving myPlanet manual.
 
 > Once you complete Step 5 you will have:
 
-* 2 new pull request made
+* **2** new pull request made
 
 Check your progress [here](trackprogress.md)
 
@@ -95,9 +95,23 @@ Treehouses is a cli application, developed with features to help and maintain se
 
 2. You should search for Courses and Resources under Collection **Planet Learning** and take those Courses and Resources
 
+3. Create at least **4 issues** and **pull request** to improve Planet manual.
+
+> Once you complete Step 7 you will have:
+
+* **4** new pull request made
+
+Check your progress [here](trackprogress.md)
+
 ## Step 8 - Try Angular
 
-Go through Course in Planet which will walk through starting new angular project.
+Go through Course in Planet under collection **Planet Learning** which will walk through starting new angular project.
+
+Please create new repository and commit changes of the project for us to review. Add @dogi and @lmmrssa as members of project.
+
+> Once you complete Step 8 you will have:
+
+* You should have used angular cli and created angular project with few pages.
 
 ## Step 9 - Join the team
 
