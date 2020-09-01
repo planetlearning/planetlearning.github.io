@@ -10,7 +10,7 @@ Communication is key in every collaborative project, and Planet Learning is no d
 
 As you complete the [First Steps](vi/firststeps.md), we want you to keep us updated in the [Slack chat](http://slack.ole.org). Generally, you should comment in the chat when you make an issue or pull request, and then link to it. Make a mention (@*name*) of someone when you comment on their issue/pull request, then link to it.
 
-If you are new and have not joined our Slack Channel then use this [link to join our channel](http://http://join.slack.ole.org).
+If you are new and have not joined our Slack Channel then use this [link to join our channel](http://join.slack.ole.org).
 
 This good etiquette helps streamline communication between internship candidates and staff members alike! Feel free to look through the chat for more examples.
 
