@@ -13,7 +13,7 @@ Social coding is a huge part of any open source and collaborative project, and t
 
 Because these steps are simple, we expect high-quality work, which may take a longer time. We want to see that you are capable of using or learning how to use these tools (writing good GitHub issues, creating pull requests, using Markdown and Docker, etc.). These steps may seem easy, but we want you to impress us with good GitHub etiquette and quality Markdown. The bare minimum would be to just passively follow the steps; you should do further reading about the tools languages we use so you can further your understanding and relieve confusion if you're unclear about how something works. **Treat these steps as learning opportunities!** The GitHub and Markdown skills you practice here are very important for both this internship and a future software development career.
 
-We also want you to keep us updated a relatively good amount in the [Slack chat]() as you complete these steps. We will ask you to send us messages, links, and screenshots along the First Steps, and we will use this to track your progress, so please do not forget to do so.
+We also want you to keep us updated a relatively good amount in the [Slack chat](http://slack.ole.org) as you complete these steps. We will ask you to send us messages, links, and screenshots along the First Steps, and we will use this to track your progress, so please do not forget to do so.
 
 ## Step 0 - Introductory Steps
 
@@ -42,7 +42,7 @@ One of the most simple but most powerful text editors out there is Vim. If you w
 
 Follow the instructions on [Markdown](markdown.md)
 
-Make sure that you've linked to your github.io and pull request in the [Slack chat](). Also, include the `raw.githack` link in your pull request `https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md`
+Make sure that you've linked to your github.io and pull request in the [Slack chat](http://slack.ole.org). Also, include the `raw.githack` link in your pull request `https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md`
 
 **NOTE**: The `raw.githack` link is case sensitive to your username. 
 

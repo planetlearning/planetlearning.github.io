@@ -82,7 +82,7 @@ Once you have your profile ready, it's time to create a pull request. Click on o
 * include the raw.githack link to your Markdown profile page in the pull request description
 * scroll down the page and verify you used at least 5 **different** Markdown elements in your profile
 
-Finally, click "Create pull request" button and post the link to your github.io and profile pull request in the [slack chat]():
+Finally, click "Create pull request" button and post the link to your github.io and profile pull request in the [slack chat](http://slack.ole.org):
 
 > @/all I'm on step 3 - GitHub and Markdown, please look at `https://YourUserName.github.io` and review my profile pull request `LinkToYourPullRequest`
 
@@ -91,6 +91,6 @@ Remember, it can take a while for `https://YourUserName.github.io` to be up and 
 
 Someone from our team will review the changes and notify you on gitter. Often there will be some feedback from the reviewer for you to address. If that is the case, go to your pull request first then select "files changed" --> next select "..." on the top right --> select "Edit File" --> make the required changes --> scroll down and select "commit" on the pull request when done. Any changes you make to your branch will be automatically updated in the pull request. Once you get 2 approving reviews, we will merge your Markdown profile with the main repository.
 
-After the pull request is merged, you'll be able to see your personal page at `planetlearning.github.io/#!pages/vi/profiles/<YourUserName>.md`. Let us know in the [slack chat]() after you complete this step.
+After the pull request is merged, you'll be able to see your personal page at `planetlearning.github.io/#!pages/vi/profiles/<YourUserName>.md`. Let us know in the [slack chat](http://slack.ole.org) after you complete this step.
 
 **NOTE**: Try to add and experiment with as many markdown elements as you can and make your page attractive. A list of sample profile pages can be found [**here**](https://github.com/planetlearning/planetlearning.github.io/tree/master/pages/vi/profiles). Be creative.

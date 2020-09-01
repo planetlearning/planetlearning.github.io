@@ -68,7 +68,7 @@ Install [Tor](https://www.torproject.org/download/)
 To activate Tor, SSH into your Raspberry Pi with `root`, and run `treehouses tor add 22`, `treehouses tor add 80`, and `treehouses tor notice on`.  To view the Tor address of your Pi, run `treehouses tor`, then copy-paste this address into your Tor Browser, to make sure it works; you should see a configuration page for Planet Learning, one of our other services.
 
 ---
-#### At the end of this section, post the code of your successful SSH terminal to the [Slack chat]()
+#### At the end of this section, post the code of your successful SSH terminal to the [Slack chat](http://slack.ole.org)
 
 It may look like this:
 ```
