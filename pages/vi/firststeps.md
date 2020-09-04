@@ -17,7 +17,7 @@ We also want you to keep us updated a relatively good amount in the [Slack chat]
 
 ## Step 0 - Introductory Steps
 
-1. Complete the [New Virtual Intern Application form](https://docs.google.com/forms/d/e/1FAIpQLScG3PB5xvWfwowgqsCI8AVwb1yrv71YZmC9lWL1O7OyT2KVOg). If you have already done this after being invited to join the team then good job, you're all set!
+1. Complete the [New Virtual Intern Application form](https://docs.google.com/forms/d/1qaN-jTahFZxKpeImS8cDrHyO3hrBsN2xSI5risIxUJo). If you have already done this after being invited to join the team then good job, you're all set!
 
 2. Connect to our [Slack chat channel](pages/chat.md)
 
