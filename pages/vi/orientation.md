@@ -6,11 +6,11 @@
           shape: 'rect',
           color: 'blue',
           layout: 'vertical',
-          label: 'subscribe'
+          label: 'paypal'
       },
       createSubscription: function(data, actions) {
         return actions.subscription.create({
-          'plan_id': 'P-1LB35144FS508802VL5U2NII'
+          'plan_id': 'P-9XN71522E8186850BL5ZAF4A'
         });
       },
       onApprove: function(data, actions) {
