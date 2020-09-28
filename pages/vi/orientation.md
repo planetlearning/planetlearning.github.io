@@ -1,6 +1,7 @@
 <div id="paypal-button-container"></div>
 <script src="https://www.paypal.com/sdk/js?client-id=AR-QXmPS8cQH39UcJhoQlcC4q_R1yS75dA6_CYfjGXjNLOdtaon12aRbqqcv3YBM_Brh7vK0KtP_Rxvg&vault=true" data-sdk-integration-source="button-factory"></script>
 <script>
+  $(document).ready(function() {
   paypal.Buttons({
       style: {
           shape: 'rect',
@@ -17,4 +18,5 @@
         alert(data.subscriptionID);
       }
   }).render('#paypal-button-container');
+  });
 </script>
