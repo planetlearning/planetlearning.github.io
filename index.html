@@ -4458,36 +4458,25 @@ function googlemapsReady() {
 	<a href="https://github.com/planetlearning"><img style="z-index:2000;width: 35px;position: fixed;margin-top: 12.5px;margin-left: 9px;" src="images/logo.png"></a>
     <div id="md-all">
     </div>
-<script src="https://www.paypal.com/sdk/js?client-id=AU7kEXc92p1WV0qNq7jiqq_uvjn6nLc96PtT8tLnQ1z_dGAvK7H9iU7BvPt2THnphOoNwDrhMjM5VMvy&currency=USD" data-sdk-integration-source="button-factory"></script>
-<script>
-  function initPayPalButton() {
+    <script src="https://www.paypal.com/sdk/js?client-id=AR-QXmPS8cQH39UcJhoQlcC4q_R1yS75dA6_CYfjGXjNLOdtaon12aRbqqcv3YBM_Brh7vK0KtP_Rxvg&vault=true" data-sdk-integration-source="button-factory"></script>
+    <script>
     paypal.Buttons({
-      style: {
-        shape: 'rect',
-        color: 'gold',
-        layout: 'vertical',
-        label: 'paypal',
-        
-      },
-
-      createOrder: function(data, actions) {
-        return actions.order.create({
-          purchase_units: [{"amount":{"currency_code":"USD","value":1}}]
-        });
-      },
-
-      onApprove: function(data, actions) {
-        return actions.order.capture().then(function(details) {
-          alert('Transaction completed by ' + details.payer.name.given_name + '!');
-        });
-      },
-
-      onError: function(err) {
-        console.log(err);
-      }
+        style: {
+            shape: 'rect',
+            color: 'silver',
+            layout: 'vertical',
+            label: 'subscribe'
+        },
+        createSubscription: function(data, actions) {
+            return actions.subscription.create({
+            'plan_id': 'P-7BX58217L9723271LL5ZLIAA'
+            });
+        },
+        onApprove: function(data, actions) {
+            alert(data.subscriptionID);
+        }
     }).render('#paypal-button-container');
-  }
-  initPayPalButton();
-</script>
+    </script>
+
 </body>
 </html>
