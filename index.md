@@ -10,7 +10,7 @@ This [MDwiki](https://dynalon.github.io/mdwiki/#!index.md) serves as an informat
 The  project ...
 
 
-#### Become a Virtual Intern!
-Follow the [first steps](pages/vi/firststeps.md) in order to learn how.
+#### Become a Part of Program!
+Follow the [first steps](pages/micromaster/firststeps.md) in order to learn how.
 
 **Find Us On:** [Linkedin](https://www.linkedin.com/company/open-learning-exchange) | [Twitter](https://twitter.com/oleorg) | [Facebook](https://www.facebook.com/openlearningexchange/)

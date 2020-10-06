@@ -8,7 +8,7 @@
 
 [gimmick:ForkMeOnGitHub (position: 'right', color: 'darkblue')](https://www.github.com/planetlearning/planetlearning.github.io)
 
-[First Steps](pages/vi/firststeps.md)
+[First Steps](pages/micromaster/firststeps.md)
 
 [Manual]()
 
