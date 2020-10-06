@@ -62,7 +62,7 @@ For more info on differences of merging vs. rebasing (and when to use which one)
 
 If you would like to understand how syncing with the fork works, here is a useful [video](https://www.youtube.com/watch?v=-zvHQXnBO6c)
 
-[![video](http://img.youtube.com/vi/-zvHQXnBO6c/0.jpg)](https://www.youtube.com/watch?v=-zvHQXnBO6c)
+[![video](http://img.youtube.com/micromaster/-zvHQXnBO6c/0.jpg)](https://www.youtube.com/watch?v=-zvHQXnBO6c)
 
 ## Detailed Steps
 
@@ -81,7 +81,7 @@ This is just a summary of the steps that you will need to perform. Keep on readi
 
 Now, we will be using GitHub repositories on a command line, which means that there is a separate step to get your GitHub repository on your OS. To be clear, you will be using both the command line and the GitHub user interface, meaning that you **need to constantly check to make sure that your version is not behind to avoid merge conflicts**. Therefore, open your username.github.io repository on the GitHub user interface and copy the link provided by clicking the "Clone or download" button.
 
-Then, turn to your command prompt and type `git clone <repository_url>` into the command line. For example `git clone https://github.com/EmilyLarkin/EmilyLarkin.github.io.git`. Be sure to use the correct URL to clone your repository (you will obviously type your own username).  If you `cd` into your `username.github.io` you can see different files which you will be working on during your internship.
+Then, turn to your command prompt and type `git clone <repository_url>` into the command line. For example `git clone https://github.com/EmilyLarkin/EmilyLarkin.github.io.git`. Be sure to use the correct URL to clone your repository (you will obviously type your own username).  If you `cd` into your `username.github.io` you can see different files which you will be working on during First Steps.
 
 ### Clone with HTTPS or SSH
 
