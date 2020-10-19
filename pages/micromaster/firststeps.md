@@ -77,7 +77,7 @@ myPlanet is Android application of Planet. myPlanet can be run offline consideri
 
 1. There is course on Planet regarding installing myPlanet, please go through that course.
 
-2. Read [myPlanet Manual](../manual/myPlanet.md) and create at least **2 issues** and **pull request** improving myPlanet manual.
+2. Read [myPlanet Manual](../manual/myplanet.md) and create at least **2 issues** and **pull request** improving myPlanet manual.
 
 > Once you complete Step 5 you will have:
 
@@ -116,6 +116,6 @@ Please create new repository and commit changes of the project for us to review.
 ## Step 9 - Join the team
 
 Next thing is to post a screenshot of your completed progress to the Slack chat. Click [here](trackprogress.md) to find your completed progress.
-Message us ("@/all" and "@dogi") and ask about adding yourself to the team list found in [team.md](team.md) and setting up a meeting so you can become a part of the team as soon as possible.
+Message us ("@lmmrssa" and "@dogi") and ask about adding yourself to the team list found in [team.md](team.md) and setting up a meeting so you can become a part of the team as soon as possible.
 
 Make sure to read through the [orientation document](orientation.md) before the meeting.
