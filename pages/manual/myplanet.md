@@ -46,6 +46,7 @@ Click SYNC to save the configuration and to perform the first sync with the loca
 ![Syncing](images/myplanet/syncing.png)
 
 **Troubleshooting**
+
 If there is an error connecting to the local Planet server you will see the following screen:
 ![Troubleshoot](images/myplanet/troubleshoot.png)
 

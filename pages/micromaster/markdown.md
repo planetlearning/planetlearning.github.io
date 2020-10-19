@@ -57,7 +57,7 @@ Then, in the new Markdown file, include the following information:
 * your name, location/time zone, and OS (including version)
 * a short description of yourself (so your fellow virtual interns know who you are)
 
-You may use the "Preview" tab to have a primitive look of what your Markdown will look like. Please use at least 5 different types of Markdown elements so you can get an idea of how it works. Avoid using HTML as the purpose of Markdown is to make pages easy to write and read. Try to be as creative as possible. Some good examples of profiles are: [Profile 1](profiles/Loshma93.md) (links), [Profile 2](profiles/ketruong.md) (picture), [Profile 3](profiles/paulbert.md) (lists), [Profile 4](profiles/xdmtk.md) (nerdy)
+You may use the "Preview" tab to have a primitive look of what your Markdown will look like. Please use at least 5 different types of Markdown elements so you can get an idea of how it works. Avoid using HTML as the purpose of Markdown is to make pages easy to write and read. Try to be as creative as possible.
 
 When you are finished, press 'commit changes' below.
 
@@ -93,4 +93,4 @@ Someone from our team will review the changes and notify you on gitter. Often th
 
 After the pull request is merged, you'll be able to see your personal page at `planetlearning.github.io/#!pages/micromaster/profiles/<YourUserName>.md`. Let us know in the [slack chat](http://slack.ole.org)  after you complete this step.
 
-**NOTE**: Try to add and experiment with as many markdown elements as you can and make your page attractive. A list of sample profile pages can be found [**here**](https://github.com/planetlearning/planetlearning.github.io/tree/master/pages/micromaster/profiles). Be creative.
+**NOTE**: Try to add and experiment with as many markdown elements as you can and make your page attractive. Be creative.
