@@ -5,7 +5,7 @@
 ### School:
 ##### Oregon State University  
 ###### Expected Graduation in Dec. 2020
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F422775483760026408%2F&psig=AOvVaw2v6aQbvfnZAqXeAFm2hJs7&ust=1603300024396000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDLtpnUw-wCFQAAAAAdAAAAABAK "Oregon State University")
+![alt text](https://github.com/tkim949/tkim949.github.io/blob/tkprofile/pages/micromaster/images/OSU.png "Oregon State University")
 
 ###### Relevant Coursework: 
 > Analysis of Algorithm, Cloud App Development, Computer Architecture and Assembly Language, Datastructure,
