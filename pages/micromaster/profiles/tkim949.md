@@ -4,7 +4,7 @@
 
 ### School:
 ##### Oregon State University  
-###### Expected Graduation at Dec. 2020
+###### Expected Graduation in Dec. 2020
 ![alt text](https://github.com/tkim949/tkim949.github.io/blob/tkprofile/pages/micromaster/images/OSU.png "Oregon State University")
 
 ###### Relevant Coursework: 
