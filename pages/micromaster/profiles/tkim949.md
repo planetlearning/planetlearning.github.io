@@ -41,7 +41,7 @@ Software Engineering II - Unit Testing, Web Development.
     - Deployed on GCP 
     - **Link** - [Inventory Organization](https://github.com/tkim949/REST_API_GCP)
     
-    *******
+    - - - - - -
     
 ### Comments:
 > I am grateful to have an opportunity to join Open Learning Exchange Internship Program because I enjoy learning new languages and development technidues. I am also interested in Cloud computing. And I am graduating this December so now actively seeking Software Development Opportunites Ful-time as well. Thanks!
