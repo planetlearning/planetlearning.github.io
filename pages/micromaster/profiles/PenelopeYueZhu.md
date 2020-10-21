@@ -16,12 +16,13 @@ Things you ~~*don't*~~ need to know about me:
 
 * Animal lover
 
-        ```javascript
-        var get_spirit_animal = function(){
-          \\ Edit4
-          return "trash panda";
-        }
-        ```
+    ```javascript
+    var get_spirit_animal = function(){
+      \\ Edit4
+      return "trash panda";
+    }
+    ```
+    
 * Casual gamer
   * Can't handle a gun, steel or `binary` ones.
 * Follower of Taylor Swift School of Philosophy
@@ -34,7 +35,7 @@ Skills
 ------
 
 |Skill|Level|
-|:---:|:---:|
+|:---|:---|
 | Javascript                     |  3   |
 | Linux                          |  3   |
 | Eating a whole pizza by myself | Max  |
