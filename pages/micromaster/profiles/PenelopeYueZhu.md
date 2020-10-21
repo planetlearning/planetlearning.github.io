@@ -8,8 +8,8 @@ Things you ~~*don't*~~ need to know about me:
 
 * Animal lover
 ```javascript
-while(cat){
-  special_treatment();
+var get_spirit_animal = function(){
+  return "trash panda";
 }
 ```
 * Casual gamer
