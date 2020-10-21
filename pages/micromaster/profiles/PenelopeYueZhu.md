@@ -3,7 +3,7 @@
 **Preferred Name**: Penelope
 **Time Zone**: Central Daylight Time
 **OS**: Windows 10
-===
+---
 Things you ~~*don't*~~ need to know about me:
 
 * Animal lover
@@ -19,8 +19,8 @@ while(cat){
 * [Also a programmer](https://www.linkedin.com/in/yue-zhu-18a1b8133/)
 
 ---
+|:------------------------------:|:----:|
 | Skill                          | Level|
-| ------------------------------:|:-- -:|
 | Javascript                     |  3   |
 | Linux                          |  3   |
 | Eating a whole pizza by myself | Max  |
