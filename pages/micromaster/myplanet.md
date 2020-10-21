@@ -20,6 +20,6 @@ We suggest you play around a bit, try to explore and feel comfortable with myPla
 
 ## Useful Links
 
-[Helpful links and videos](vi-faq.md#Helpful_Links)
+[Helpful links and videos](vi-faq.md)
 [myPlanet GitHub Repository](https://github.com/open-learning-exchange/myplanet)
 
