@@ -3,14 +3,16 @@
 **Preferred Name**: Penelope
 **Time Zone**: Central Daylight Time
 **OS**: Windows 10
+
 ---
+
 Things you ~~*don't*~~ need to know about me:
 
 * Animal lover
 
 ```javascript
 var get_spirit_animal = function(){
-  \\ Edit
+  \\ Edit2
   return "trash panda";
 }
 ```
@@ -22,7 +24,7 @@ var get_spirit_animal = function(){
 
 ---
 
-|Skill| Level|
+|Skill|Level|
 |:---:|:---:|
 | Javascript                     |  3   |
 | Linux                          |  3   |
