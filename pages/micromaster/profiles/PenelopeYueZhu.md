@@ -10,12 +10,12 @@ Things you ~~*don't*~~ need to know about me:
 
 * Animal lover
 
-```javascript
-var get_spirit_animal = function(){
-  \\ Edit2
-  return "trash panda";
-}
-```
+        ```javascript
+        var get_spirit_animal = function(){
+          \\ Edit3
+          return "trash panda";
+        }
+        ```
 * Casual gamer
   * Can't handle a gun, steel or `binary` ones.
 * Follower of Taylor Swift School of Philosophy
