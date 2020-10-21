@@ -10,10 +10,10 @@
 
 >Hello World!
   
-I'm Emily :beginner: :sunflower: :jigsaw: and will be finishing my degree with a concentration on Application Development next Spring. 
+I'm Emily 🔰 🌻 🧩 and will be finishing my degree with a concentration on Application Development next Spring. 
 After majoring in English Literature, I became interested in programming when I started going through Codecademy courses.
 My future goal is to become a full-stack developer. If I have the opportunity, I would like to learn Natural Language Processing.
-I am bilingual and studied Japanses for 2 years, so languages naturally interest me. :sunglasses:  
+I am bilingual and studied Japanses for 2 years, so languages naturally interest me. 😎   
 [>> My GitHub <<](https://github.com/yu-emily)
 
 
