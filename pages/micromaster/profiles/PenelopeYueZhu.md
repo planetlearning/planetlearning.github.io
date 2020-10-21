@@ -1,7 +1,7 @@
-**First Name**: Yue\
-**Last Name**: Zhu\
-**Preferred Name**: Penelope\
-**Time Zone**: Central Daylight Time\
+**First Name**: Yue
+**Last Name**: Zhu
+**Preferred Name**: Penelope
+**Time Zone**: Central Daylight Time
 **OS**: Windows 10
 ***
 Things you ~~*don't*~~ need to know about me:
