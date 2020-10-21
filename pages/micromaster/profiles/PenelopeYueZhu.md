@@ -9,6 +9,7 @@ Things you ~~*don't*~~ need to know about me:
 * Animal lover
 ```javascript
 var get_spirit_animal = function(){
+  \\ Edit
   return "trash panda";
 }
 ```
@@ -19,8 +20,8 @@ var get_spirit_animal = function(){
 * [Also a programmer](https://www.linkedin.com/in/yue-zhu-18a1b8133/)
 
 ---
-|:------------------------------:|:----:|
 | Skill                          | Level|
+|:------------------------------:|:----:|
 | Javascript                     |  3   |
 | Linux                          |  3   |
 | Eating a whole pizza by myself | Max  |
