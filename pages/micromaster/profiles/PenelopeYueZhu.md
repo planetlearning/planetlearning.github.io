@@ -1,10 +1,16 @@
+Bio
+---
+
 **First Name**: Yue
 **Last Name**: Zhu
 **Preferred Name**: Penelope
 **Time Zone**: Central Daylight Time
 **OS**: Windows 10
 
----
+------------------------
+
+Intro
+-----
 
 Things you ~~*don't*~~ need to know about me:
 
@@ -12,7 +18,7 @@ Things you ~~*don't*~~ need to know about me:
 
         ```javascript
         var get_spirit_animal = function(){
-          \\ Edit3
+          \\ Edit4
           return "trash panda";
         }
         ```
@@ -22,7 +28,10 @@ Things you ~~*don't*~~ need to know about me:
   >Sunshine on the street at the parade, but you would rather be in the Dark Ages.-TayTay
 * [Also a programmer](https://www.linkedin.com/in/yue-zhu-18a1b8133/)
 
----
+--------------------------
+
+Skills
+------
 
 |Skill|Level|
 |:---:|:---:|
