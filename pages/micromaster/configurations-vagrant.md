@@ -20,7 +20,7 @@ The Planet is not only a library, but also an individualized learning system, wh
 
 * Nations are Planet apps for the Internet, allowing communities to interact with each other.
 * Nations are connected to many communities and can run reports on any communities it owns.
-* As you complete these instructions, an OLE administrator will complete the registration of your community with the Virtual Intern Nation.
+* As you complete these instructions, an OLE administrator will complete the registration of your community with the PlanetLearning Nation.
 
 ## macOS and Ubuntu
 
@@ -43,7 +43,7 @@ WARNING: Before you finish the registration, do not close your browser.
 You cannot go to the above registration form again.
 If you are in this situation, look at the ** [Second element of Troubleshooting in this page](#Troubleshooting)** 
 
-Next, fill out the configurations. Your name must be the same and should match your GitHub name so we can easily locate your community in Virtual Intern Nation. Pick **Virtual Intern Nation (vi)** for nation as in the example below. **After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the [Slack chat](http://slack.ole.org) after submitting your registration request.**
+Next, fill out the configurations. Your name must be the same and should match your GitHub name so we can easily locate your community in PlanetLearning Nation. Pick **PlanetLearning Nation (Planet Learning)** for nation as in the example below in place of **vi** to **Planet Learning**. **After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the [Slack chat](http://slack.ole.org) after submitting your registration request.**
 
 ![Configurations](images/planet-configuration.png)
 
