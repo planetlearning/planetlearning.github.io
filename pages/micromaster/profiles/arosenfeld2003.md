@@ -20,7 +20,7 @@ After getting two degrees in music performance, I spent the first fifteen years 
 #### Post-Musical Career
 My performance career was cut short by an injury called [Musician's Focal Dystonia](https://en.wikipedia.org/wiki/Focal_dystonia).  
 After working for a year as a professional beer brewer, I accepted a position as a manager for a local dog walking company,
-which gives me a lot more time to code and study - plus I get to work with [dogs](https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/42494209_1961609303878135_2868037267434242048_o.jpg?_nc_cat=105&ccb=2&_nc_sid=8bfeb9&_nc_ohc=kHJH7qOiFwEAX-rwnpV&_nc_ht=scontent-ort2-1.xx&oh=818958cbcd485314dec3897ae1c05346&oe=5FB53724)! 
+which gives me a lot more time to code and study - plus I get to work with dogs! ![dogs](https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/42494209_1961609303878135_2868037267434242048_o.jpg?_nc_cat=105&ccb=2&_nc_sid=8bfeb9&_nc_ohc=kHJH7qOiFwEAX-rwnpV&_nc_ht=scontent-ort2-1.xx&oh=818958cbcd485314dec3897ae1c05346&oe=5FB53724)
 
 #### Current Goals
 - Start working full-time as a software engineer.
