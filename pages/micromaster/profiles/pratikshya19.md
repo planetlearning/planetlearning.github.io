@@ -21,7 +21,7 @@
  * JS ES6 
  * React
 
-Check out my profile to know more about me and my projects at my **[Portfolio Page](https://pratikshyapandeyportfolio.netlify.app)** . Looking forward to talk with you all!
+Check out my profile to know more about me and my projects at my **_[Portfolio Page](https://pratikshyapandeyportfolio.netlify.app)_** . Looking forward to talk with you all!
 
 > **Thank you ~** 
 
