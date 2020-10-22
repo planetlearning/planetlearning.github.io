@@ -14,9 +14,7 @@ One of my commmits to the [Firefox Debugger](https://hg.mozilla.org/integration/
 
 ### About Me
 #### Musician
-After getting two degrees in music performance, I spent the first fifteen years of my career performing with orchestras around the United States. 
-My instrument was the French Horn, and I held contracts with the Louisiana Philharmonic, Rochester Philharmonic, San Francisco Chamber Orchestra, and Sarasota Opera Orchestra among others.
-Here's a fun post-concert photo with the horn section of the San Francisco Symphony on a tour of Europe in 2014 (I'm in front on the right):
+After getting two degrees in music performance, I spent the first fifteen years of my career performing with orchestras around the United States. My instrument was the French Horn, and I held contracts with the Louisiana Philharmonic, Rochester Philharmonic, San Francisco Chamber Orchestra, and Sarasota Opera Orchestra among others.  Here's a fun post-concert photo with the horn section of the _San Francisco Symphony_ on a tour of Europe in 2014 (I'm in front on the right):
 ![SFS](https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/254179_10150220148799057_4836008_n.jpg?_nc_cat=103&ccb=2&_nc_sid=cdbe9c&_nc_ohc=ecSafMoEPVEAX9uL7qh&_nc_ht=scontent-ort2-1.xx&oh=e2ffdc124275b07b38698565fa8df586&oe=5FB7D22E)
 
 #### Post-Musical Career
