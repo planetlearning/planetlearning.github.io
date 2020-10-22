@@ -1,18 +1,18 @@
 ## Name: 
-### Pratikshya Pandey  
+ **Pratikshya Pandey** 
 
 ## Location: 
-### OK, USA
+**OK, USA**
 
 ## Time zone: 
-### CST
+**CST**
 
 ## OS: 
-### macOS(10.15.7)
+**macOS(10.15.7)**
 
 ## Description: 
 
- ### Hello everyone! I am a full stack web developer passionate about technology. Technical skills include but not limited to: 
+ Hello everyone! I am a full stack web developer passionate about technology. Technical skills include but not limited to: 
  * SQL
  * PostgreSQL 
  * MYSQL 
@@ -20,9 +20,10 @@
  * JavaScript 
  * JS ES6 
  * React
-  ### Check out my profile to know more about me and my projects at my [Portfolio Page](https://pratikshyapandeyportfolio.netlify.app).   
-    Looking forward to talk with you all!  
-    Thank you~ 
+
+#### Check out my profile to know more about me and my projects at my [Portfolio Page](https://pratikshyapandeyportfolio.netlify.app) . Looking forward to talk with you all!
+
+> Thank you ~ 
 
 
 
