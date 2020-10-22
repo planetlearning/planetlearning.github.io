@@ -12,6 +12,16 @@ Read Open Source Codebases | Write numerous small programs increasing in size an
 Work as Open Source Contributor (devtools - _Mozilla Firefox_) | Work on lots of individual and group software projects
 One of my commmits to the [Firefox Debugger](https://hg.mozilla.org/integration/autoland/rev/25a282bca05b) | One of my group projects: a clone of [_Basecamp_](https://stormy-crag-63797.herokuapp.com/)
 
+### Current Goals
+- Gain more experience building web applications and become self-sufficient as a developer.
+- Work with additional programming languages (especially `Python`).
+- Learn about Cloud Architecture and work with various cloud services like `AWS`, `GCS`, and `Azure`.
+- Work with additional frameworks and Javascript libraries such as `Svelte` and `MongoDB`.
+- Contribute to software projects that will help to solve problems in our society.
+- Start working full-time as a Full-Stack software engineer.
+
+I'm really excited to join you all in this community, continuing to grow and learn while contributing to the important work of _OLE_!
+
 ### About Me
 #### Musician
 After getting two degrees in music performance, I spent the first fifteen years of my career performing with orchestras around the United States. My instrument was the French Horn, and I held contracts with the Louisiana Philharmonic, Rochester Philharmonic, San Francisco Chamber Orchestra, and Sarasota Opera Orchestra among others.  Here's a fun post-concert photo with the horn section of the _San Francisco Symphony_ on a tour of Europe in 2014 (I'm in the front row on the right):
@@ -19,13 +29,5 @@ After getting two degrees in music performance, I spent the first fifteen years 
 
 #### Post-Musical Career
 My performance career was cut short by an injury called [Musician's Focal Dystonia](https://en.wikipedia.org/wiki/Focal_dystonia).  After working for a year as a professional brewer at several San Francisco Bay Area breweries, I accepted a position as a manager for a local dog walking company.  This gives me a lot more time to code and study - plus I get to work with dogs! ![dogs](https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/42494209_1961609303878135_2868037267434242048_o.jpg?_nc_cat=105&ccb=2&_nc_sid=8bfeb9&_nc_ohc=kHJH7qOiFwEAX-rwnpV&_nc_ht=scontent-ort2-1.xx&oh=818958cbcd485314dec3897ae1c05346&oe=5FB53724)
-
-#### Current Goals
-- Gain more experience building web applications and become self-sufficient as a developer.
-- Work with additional programming languages (especially `Python`) and frameworks (particularly Javascript front-end and database).
-- Contribute to software projects that will help to solve problems in our society.
-- Start working full-time as a Full-Stack software engineer.
-
-I'm really excited to join you all in this community, continuing to grow and learn while contributing to the important work of _OLE_!
 
 
