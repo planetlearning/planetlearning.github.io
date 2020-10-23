@@ -117,5 +117,3 @@ Please create new repository and commit changes of the project for us to review.
 
 Next thing is to post a screenshot of your completed progress to the Slack chat. Click [here](trackprogress.md) to find your completed progress.
 Message us ("@lmmrssa" and "@dogi") and ask about adding yourself to the team list found in [team.md](team.md) and setting up a meeting so you can become a part of the team as soon as possible.
-
-Make sure to read through the [orientation document](orientation.md) before the meeting.
