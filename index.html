@@ -4458,5 +4458,37 @@ function googlemapsReady() {
 	<a href="https://github.com/planetlearning"><img style="z-index:2000;width: 35px;position: fixed;margin-top: 12.5px;margin-left: 9px;" src="images/logo.png"></a>
     <div id="md-all">
     </div>
+    <script src="https://www.paypal.com/sdk/js?client-id=AR-QXmPS8cQH39UcJhoQlcC4q_R1yS75dA6_CYfjGXjNLOdtaon12aRbqqcv3YBM_Brh7vK0KtP_Rxvg&currency=USD" data-sdk-integration-source="button-factory"></script>
+    <script>
+    function initPayPalButton() {
+        paypal.Buttons({
+        style: {
+            shape: 'rect',
+            color: 'blue',
+            layout: 'vertical',
+            label: 'paypal',
+            
+        },
+
+        createOrder: function(data, actions) {
+            return actions.order.create({
+            purchase_units: [{"amount":{"currency_code":"USD","value":100}}]
+            });
+        },
+
+        onApprove: function(data, actions) {
+            return actions.order.capture().then(function(details) {
+            alert('Your payment was succesful. Contact OLE team with invoice !');
+            });
+        },
+
+        onError: function(err) {
+            alert('Error occured in payment. Please try again !');
+            //console.log(err);
+        }
+        }).render('#paypal-button-container');
+    }
+    initPayPalButton();
+    </script>
 </body>
 </html>
