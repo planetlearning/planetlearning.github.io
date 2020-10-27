@@ -40,7 +40,7 @@ When I have time I also write @[medium/](https://medium.com/@bilgedemirkaya/)
 
 *Contact info*: 
 
->bilgedemirkaya00@hotmail.com / >bilgedemirkaya07@gmail.com
+>bilgedemirkaya00@hotmail.com / bilgedemirkaya07@gmail.com
 
 >via whatsapp : +905423884229
 
