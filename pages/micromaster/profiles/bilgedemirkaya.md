@@ -1,4 +1,4 @@
-# Bilge Demirkaya
+# Bilge Demirkaya [![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/bilge-demirkaya/)
 
 
 **Due to Covid-19 situation, currently**: Antalya, GMT+03:00 **OS**: Windows 10* 64-bit
