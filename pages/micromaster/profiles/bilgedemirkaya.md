@@ -1,4 +1,5 @@
-# Bilge Demirkaya [<img src="https://img.icons8.com/plasticine/100/000000/linkedin.png"/>](https://www.linkedin.com/in/bilge-demirkaya/)
+# Bilge Demirkaya
+
 
 **Due to Covid-19 situation, currently**: Antalya, GMT+03:00 **OS**: Windows 10* 64-bit
 
@@ -9,7 +10,7 @@
 
 I love playing chess ♟️ and spend my time with learning 💻
 
-When I have time I also write @[medium/](https://medium.com/@bilgedemirkaya/)
+When I have time I also write @[medium](https://medium.com/@bilgedemirkaya/)
 
 
 | Education  | Experience |
