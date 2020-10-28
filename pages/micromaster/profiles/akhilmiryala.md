@@ -2,14 +2,16 @@
 
 Information about me:
 
-* Name: Akhil Miryala
-* location: Minneapolis, Minnesota, United States (Central Time Zone)
-* OS: macOS
+- Name: Akhil Miryala
+- location: Minneapolis, Minnesota, United States (Central Time Zone)
+- OS: macOS
 
 ### *Short Description about me*
 
 > I am currently a senior at the University of Minnesota - Twin Cities majoring Computer Science. I love learning about new technologies, trying to solve problems with technology, and playing sports. 
 
-### Here is a picture of myself so you can place a face to a name
+My favorite programming languages are:
 
-![Picture of Myself](/images/mypic.jpg)
+1. Java
+2. Python
+3. C++
