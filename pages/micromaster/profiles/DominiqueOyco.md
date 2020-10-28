@@ -51,17 +51,14 @@ You can view these two projects at my [Github account](https://github.com/Domini
 
 Goals
 -------------------------
-My current goals as of right now is to gain more experience on the field of software development so I can be a decent software developer 
-when I become one. I also wanted to learn more tools such as React, Angular, and Web services like AWS so I can develop better programs
-or websites.  
+My current goals as of right now is to gain more experience on the field of software development so I can be a decent software developer when I become one. I also wanted to learn more tools such as React, Angular, and Web services like AWS so I can develop better programs or websites.  
   
     
     
   
   
   
-If you wanted to know more about me, you can visit my [website](https://dominiqueoyco.github.io/Portfolio/) and my 
-[Linkedin profile](https://www.linkedin.com/in/dominique-oyco-27267abb/). I am looking forward to working with you guys at Open Learning Exchange!
+If you wanted to know more about me, you can visit my [website](https://dominiqueoyco.github.io/Portfolio/) and my [Linkedin profile](https://www.linkedin.com/in/dominique-oyco-27267abb/). I am looking forward to working with you guys at Open Learning Exchange!
 
 
 
