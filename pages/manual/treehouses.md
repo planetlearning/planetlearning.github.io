@@ -38,7 +38,7 @@ Tor is a computer network run by volunteers worldwide. Each volunteer runs what 
 
 Before hitting the open Internet, the Tor Browser will connect to several different relays, wiping its tracks each step of the way, making it difficult to figure out where, and who, you really are.
 
-The Systems Team utilizes this tool to provide a further layer of security when interacting with the Raspberry Pis deployed in the field.
+The Systems Team utilizes this tool to provide a further layer of security when interacting with the Machines deployed in the field.
 
 Please start by watching this [video](https://www.youtube.com/watch?v=6czcc1gZ7Ak) about the Tor browser.
 
@@ -65,18 +65,17 @@ Install [Tor](https://www.torproject.org/download/)
 
 ### Turn on Tor
 
-To activate Tor, SSH into your Raspberry Pi with `root`, and run `treehouses tor add 22`, `treehouses tor add 80`, and `treehouses tor notice on`.  To view the Tor address of your Pi, run `treehouses tor`, then copy-paste this address into your Tor Browser, to make sure it works; you should see a configuration page for Planet Learning, one of our other services.
+To activate Tor, SSH into your Vagrant. You might need to access it as `root` by executing `sudo -s`. Then run `treehouses tor add 22`, `treehouses tor add 80`, and `treehouses tor notice on`.  To view the Tor address of your machine, run `treehouses tor`, then copy-paste this address into your Tor Browser, to make sure it works; you should see a configuration page for Planet Learning, one of our other services.
 
 ---
 #### At the end of this section, post the code of your successful SSH terminal to the [Slack chat](http://slack.ole.org)
 
 It may look like this:
 ```
-ssh root@192.168.0.101
-The authenticity of host '192.168.0.101 (192.168.0.101)' can't be established.                                                                                                                                                    
-ECDSA key fingerprint is SHA256:OQcmJteKgWOmNiK6OlrZ3CxC5+T/KMKowQ5qNHn9NOI.                                                                                                                                                      
-Are you sure you want to continue connecting (yes/no)? yes                                                                                                                                                                        
-Warning: Permanently added '192.168.0.101' (ECDSA) to the list of known hosts.                                                                                                                                                    
+vagrant ssh
+
+Linux prod 4.19.0-9-amd64 #1 SMP Debian 4.19.118-2 (2020-04-29) x86_64
+
 
 The programs included with the Debian GNU/Linux system are free software;                                                                                                                                                         
 the exact distribution terms for each program are described in the                                                                                                                                                                
@@ -85,7 +84,7 @@ individual files in /usr/share/doc/*/copyright.
 Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
 permitted by applicable law.
 Last login: Thu Aug 22 23:20:37 2019 from unknown.comcast.net
-root@treehouses:~#
+vagrant@prod:~#
 ```
 
 ---
