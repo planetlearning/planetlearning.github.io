@@ -8,4 +8,8 @@ Information about me:
 
 ### *Short Description about me*
 
-> I am currently a senior at the University of Minnesota - Twin Cities majoring Computer Science. I love learning about new technologies, trying to solve problems with technology, and playing sports.  
+> I am currently a senior at the University of Minnesota - Twin Cities majoring Computer Science. I love learning about new technologies, trying to solve problems with technology, and playing sports. 
+
+### Here is a picture of myself so you can place a face to a name
+
+![Picture of Myself](/images/mypic.jpg)
