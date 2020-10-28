@@ -28,7 +28,8 @@ Adapting to New Languages | 4
 
 My Sample Projects
 -------------------------
-The following are two of the projects I have worked on over the year
+The following are two of the projects I have worked on over the year:  
+
 - ***RAISING SPIRITS MULTIPLAYER CARD GAME***  
   - Raising spirits is an online multiplayer co-op card game where you cooperate with other players to defeat the boss. This game was developed by me 
   and four other developers, an artist, a musician, and a writer. 
@@ -36,7 +37,8 @@ The following are two of the projects I have worked on over the year
   - My role in the development is the UI and Front-End Developer.	I implemented functionalities such as working buttons, colliders, scriptable objects,
   & animations to make the user-interface up and running.
   - I am also responsible for implementing features relating to the user interface of the game including sounds, visuals, cards for players and bosses.
-  (coolest role!)
+  (coolest role!)  
+  - Sample Gameplay Image: ![](https://dominiqueoyco.github.io/Portfolio/Project%20Images/RAISING%20SPIRITS%203.png)
 
 - ***ANIFLIX***
   - Aniflix is a joke idea that I have back in Spring of 2020 where I can create my own Netflix (minus the videos) using just HTML, CSS, and JavaScript
