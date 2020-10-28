@@ -16,4 +16,4 @@ My favorite programming languages are:
 2. Python
 3. C++
 
-My favorite website is nba.com. Here is a link [NBA](https://www.nba.com)
+My favorite website is nba.com. Here is a link: [NBA](https://www.nba.com)
