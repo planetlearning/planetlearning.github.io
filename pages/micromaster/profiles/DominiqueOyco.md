@@ -8,11 +8,7 @@ Dominique Oyco
 
 About Me
 ---------------
-I recently graduated from California State University, Long Beach with a Bachelor's Degree at Computer Science back in May 2020. 
-I'm currently working as a freelance front-end developer for one company at this time. At my job, I've only used HTML, CSS, and JavaScript 
-and I'm in the process of learning more tools to develop better websites. My strongest programming languages are Java and Python. 
-In this internship, I hope to learn the programming practices and languages used in the industry while gaining experience at the same time. 
-I am also a avid gamer and I love playing fighting games like Street Fighter and Mortal Kombat :video_game:.
+I recently graduated from California State University, Long Beach with a Bachelor's Degree at Computer Science back in May 2020. I'm currently working as a freelance front-end developer for one company at this time. At my job, I've only used HTML, CSS, and JavaScript and I'm in the process of learning more tools to develop better websites. My strongest programming languages are Java and Python. In this internship, I hope to learn the programming practices and languages used in the industry while gaining experience at the same time. I am also a avid gamer and I love playing fighting games like Street Fighter and Mortal Kombat :video_game:.
 
 My Skills
 -------------------------
@@ -55,9 +51,6 @@ My current goals as of right now is to gain more experience on the field of soft
   
     
     
-  
-  
-  
 If you wanted to know more about me, you can visit my [website](https://dominiqueoyco.github.io/Portfolio/) and my [Linkedin profile](https://www.linkedin.com/in/dominique-oyco-27267abb/). I am looking forward to working with you guys at Open Learning Exchange!
 
 
