@@ -54,6 +54,8 @@ To return to the login page from the "Become a member" page, click on the "Alrea
 
 ![](images/planet-become-member.png)
 
+**NOTE:** Each Planet system is unique; universal memberships do not exist. If you become a member of a specific Nation or Community, you do not automatically become a member of any other existing Nations and Community. To become a member of another Nation or Community you must register with a new account.
+
 ### Different kind of roles available in system
 There are several different roles available in Planet: "admin", "manager", "learner", "leader", and "monitor". Members are "learners" by default, and only the "admin" is allowed to set specific roles of members.
 
