@@ -1,5 +1,4 @@
-your name, location/time zone, and OS (including version)
-a short description of yourself (so your fellow virtual interns know who you are)
+
 
 
 |----------------------|:-------------:| 
