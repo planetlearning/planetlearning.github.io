@@ -230,19 +230,20 @@ When creating a step, click on the "Add Test" button to create a test for what y
 ![Test creation](images/courses-test.png)
 
 Upon clicking the "Add Question" button, you will find there are four types of questions based on two categories __Text__ and __Multiple Choice__:  
-+ Text - Simply fill out the question detail or query for this type of question. The test taker will automatically get a textbox for filling out his or her answer.  
-	+ Short answer  
-	+ Long answer	
+* Text - Simply fill out the question detail or query for this type of question. The test taker will automatically get a textbox for filling out his or her answer.  
+
+	* Short answer  
+	* Long answer	
 
 ![Short answer](images/courses-test-short.png)
 ![Long answer](images/courses-test-long.png)
 
 
-+ Multiple Choice - Click the "Add Choice" button to create a choice of answers for the question. The checkboxes denote the correct answers for the question and are required for creation of the question. Click the red circle button to the right of the choice to delete it from the question.
-	+ Single answer: Only __one__ checkbox can be chosen for this type of question.  
+* Multiple Choice - Click the "Add Choice" button to create a choice of answers for the question. The checkboxes denote the correct answers for the question and are required for creation of the question. Click the red circle button to the right of the choice to delete it from the question.
+	* Single answer: Only __one__ checkbox can be chosen for this type of question.  
 	In the image seen first below, the correct answer is set by checkbox to be the second choice, "Two".  
 	
-	+ Multiple answer  
+	* Multiple answer  
 	In the image seen last below, the correct answer is set by checkbox to be the first, second, and fourth choices, "One", "Two", and "Four".
 
 ![Multiple choice single answer](images/courses-test-mc-single.png)
