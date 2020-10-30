@@ -61,25 +61,23 @@ There are several different roles available in Planet: "admin", "manager", "lear
 Click on the profile button in the top right corner of Planet. Here, you can view or edit your profile, change your password, or logout. Be sure to log out once you are finished with your session.
 
 ![](images/planet-home-profile.png)  
-  
----  
-  
+
 # Using Planet  
 The following section breaks down the main actions you can do on Planet:
 
 ### Main Menu  
 
-**[Library](#Library)**: Manage resources within the community by filtering, searching or adding resources.  
-[Courses](#Courses): Manage courses by (1) joining a course, adding and sending a course to the remote database, and deleting a course or by (2) adding tests or surveys to a course.  
-[Meetups](#Meetups): Manage meetups to coordinate meetups by creating, inviting members to, joining, and leaving a meetup.  
-[Teams](#Teams): Create teams to manage members, communicate with members, or offering courses to members.  
-[Surveys](#Surveys): Manage surveys by editing, sending, and recording a survey.  
+- **[Library](#Library):** Manage resources within the community by filtering, searching or adding resources.  
+- **[Courses](#Courses):** Manage courses by (1) joining a course, adding and sending a course to the remote database, and deleting a course or by (2) adding tests or surveys to a course.  
+- **[Meetups](#Meetups):** Manage meetups to coordinate meetups by creating, inviting members to, joining, and leaving a meetup.  
+- **[Teams](#Teams):** Create teams to manage members, communicate with members, or offering courses to members.  
+- **[Surveys](#Surveys):** Manage surveys by editing, sending, and recording a survey.  
 
 ### Other Actions
-[News](#News): See posts from users within the community or create a post.  
-[Achievement](#Achievement): Edit your achievement page by adding an achievement or reference.  
-[Feedback](#Feedback): Manage feedbacks by giving, viewing, replying, closing or reopening a feedback.  
-[Manager](#Manager): With the role as manager, you can access the dashboard to promote a member to the manager role, viewing reports, syncing the community with the nation, and performing updates.  
+- **[News](#News):** See posts from users within the community or create a post.  
+- **[Achievement](#Achievement):** Edit your achievement page by adding an achievement or reference.  
+- **[Feedback](#Feedback):** Manage feedbacks by giving, viewing, replying, closing or reopening a feedback.  
+- **[Manager](#Manager):** With the role as manager, you can access the dashboard to promote a member to the manager role, viewing reports, syncing the community with the nation, and performing updates.  
   
 ---  
 
