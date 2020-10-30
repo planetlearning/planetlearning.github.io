@@ -33,7 +33,7 @@ At the login screen click the Gear icon top right corner
 
 ![Server Setup](images/myplanet/login_setup.png)
 
-On the resulting screen, enter the local server IP Address in the form of a URL. URL will be what you open on browser to use planet. Unless you received special instructions, enter: http://192.168.2.1. Also, enter the Pin from Step 1 above
+On the resulting screen, enter the local server IP Address in the form of a URL. URL will be what you open on browser to use planet. For example, you should use your laptop ip address http://192.168.0.110 in the form of a URL. Also, enter the Pin from Step 1 above
 
 ![Server Connection](images/myplanet/server_address.png)
 
