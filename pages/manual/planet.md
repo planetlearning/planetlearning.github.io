@@ -62,6 +62,8 @@ Click on the profile button in the top right corner of Planet. Here, you can vie
 
 ![](images/planet-home-profile.png)  
 
+---  
+
 # Using Planet  
 The following section breaks down the main actions you can do on Planet:
 
