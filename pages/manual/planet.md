@@ -229,8 +229,8 @@ When creating a step, click on the "Add Test" button to create a test for what y
 
 ![Test creation](images/courses-test.png)
 
-Upon clicking the "Add Question" button, you will find there are four types of questions based on two categories Text and Multiple Choice:  
-* Text - Simply fill out the question detail or query for this type of question. The test taker will automatically get a textbox for filling out his or her answer. 
+Upon clicking the "Add Question" button, you will find there are four types of questions based on two categories __Text__ and __Multiple Choice__:  
+* Text - Simply fill out the question detail or query for this type of question. The test taker will automatically get a textbox for filling out his or her answer.  
 	* Short answer  
 	* Long answer	
 
