@@ -233,8 +233,8 @@ Upon clicking the "Add Question" button, you will find there are four types of q
 
 
 * Text - Simply fill out the question detail or query for this type of question. The test taker will automatically get a textbox for filling out his or her answer.  
-	* Short answer  
-	* Long answer	
+	* Short answer: Usually single line short answers.  
+	* Long answer: More possibly to be very long descriptive answers.	
 
 ![Short answer](images/courses-test-short.png)
 ![Long answer](images/courses-test-long.png)
@@ -270,8 +270,8 @@ Upon clicking the "Add Question" button, you will find there are four types of q
 
 
 * Text - Simply fill out the question detail or query for this type of question. The survey taker will automatically get a textbox for filling out his or her answer.  
-	* Short answer  
-	* Long answer
+	* Short answer: Usually single line short answers.  
+	* Long answer: More possibly to be very long descriptive answers.  
 
 ![Short answer](images/courses-test-short.png)
 ![Long answer](images/courses-test-long.png)
