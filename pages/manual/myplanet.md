@@ -20,7 +20,7 @@ We suggest you play around a bit, try to explore and feel comfortable with myPla
 
 ## Configure myPlanet
 
-Login in to the local RPi Planet server as the admin user and navigate to the Manager Setting page. Note the Tablet Pin number. In the below example the Tablet Pin number is 9641.
+Login in to the local RPi Planet server as the admin user and navigate to the Manager Setting page. Note the Tablet Pin number right next to the "Reset Pin" button. In the below example the Tablet Pin number is 9641.
 
 ![Tablet Pin](images/myplanet/tablet_pin.png)
 
