@@ -39,6 +39,8 @@ Under the Planet system, there are two types of structures: **Nations** and **Co
   * Each **Community** connects periodically to a **Nation** via _internet_ in order to receive new materials and to upload user metrics.
   * A **Community** is not able to connect to other **Communities**.
 
+**NOTE:** Each Planet system is unique; universal memberships do not exist. If you become a member of a specific Nation or Community, you do not automatically become a member of any other existing Nations and Community. To become a member of another Nation or Community you must register with a new account.
+
 The **nations** may store thousands of Resources in many formats and languages. Unique collections of Resources can be selected and downloaded into each **Community** from the **Nation**. This gives a Learner a personalized approach to his or her education.
 
 ## Become Member
