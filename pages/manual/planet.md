@@ -608,9 +608,11 @@ As you can see below, once you are in your planet dashboard you can add feedback
 
     ![Teams Feedback](images/planet-feedback-teams.png)
 
-3. Meetups
+4. Meetups
 
     ![Meetups Feedback](images/planet-feedback-meetups.png)
+    
+  
 
 ### View Feedbacks
 Firstly, you can view your feedbacks by going to the `Manager Page` (Picture 1) then `Feedbacks` (Picture 2) to view the feedback list.
