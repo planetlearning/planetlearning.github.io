@@ -9,8 +9,9 @@ Hello everyone my name is Rodolfo Salazar but everyone calls me Rudy. I am a sen
 
 I now live in Los Angeles, California but I was born in Guadalaja Jalisco, Mexico.  
 Some of my favorite hobbies include: 
-* -Boxing  
-* -Coding    
-* -Hiking  
+
+-Boxing  
+-Coding    
+-Hiking  
 
 I look forward to meeting you all!
