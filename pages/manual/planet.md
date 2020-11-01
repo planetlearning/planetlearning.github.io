@@ -109,6 +109,7 @@ The admin of the community can create "Collections" to categorize the resources.
 ![](images/planet-library-collections.png)
 
 ### Resource View
+If you click a title of a resource, you can get a resource view page.
 The resource view page looks like this:
 
 ![](images/planet-library-resource-view.png)
