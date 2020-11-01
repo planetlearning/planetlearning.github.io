@@ -70,7 +70,7 @@ For users that use the nation version of Planet, they will see __Nation__ highli
 ![nation version dashboard](images/nation-page-view.png)
 ![community version dashboard](images/community-page-view.png)
 
-For community version users, the following section breaks down the main actions you can do on Planet:
+The following section breaks down the main actions you can do on Planet:
 
 - **[Library](#Library):** Manage resources within the community by filtering, searching or adding resources.  
 - **[Courses](#Courses):** Manage courses by (1) joining a course, adding and sending a course to the remote database, and deleting a course or by (2) adding tests or surveys to a course.  
