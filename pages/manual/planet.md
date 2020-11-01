@@ -109,6 +109,7 @@ The admin of the community can create "Collections" to categorize the resources.
 ![](images/planet-library-collections.png)
 
 ### Resource View
+If you click a title of a resource, you can get a resource view page.
 The resource view page looks like this:
 
 ![](images/planet-library-resource-view.png)
@@ -153,11 +154,11 @@ The action menu has several different actions available.
 
 ![course-added](images/my-courses-added.png)
 
-Alternatively, click on your course on the courses list then click the "Join" button near the top-right of the course page.
+Alternatively, click on your course on the courses list to get the course page then click the "Join" button near the top-right of the course page.
 
 3. To leave a course, select the checkbox next to a course that you are already a part of then click the "Leave Selected" button. The selected course is no longer part of your myCourses, and can no longer be seen on the front page's dashboard. Multiple courses are able to be left at once.
 
-Alternatively, click on your course on the courses list then click the "Leave" button near the top-right of the course page.
+Alternatively, click on your course on the courses list to get the course page then click the "Leave" button near the top-right of the course page.
 
 4. To change a collection, select the checkbox next to a course then click "Change Collections". To learn what a collection is, click [here](#Course_Collections).
 
@@ -229,34 +230,26 @@ When creating a step, click on the "Add Test" button to create a test for what y
 
 ![Test creation](images/courses-test.png)
 
-Upon clicking the "Add Question" button, you will find there are four types of questions: 
-* Text - Short answer
+Upon clicking the "Add Question" button, you will find there are four types of questions based on two categories __Text__ and __Multiple Choice__:  
+
+
+* Text - Simply fill out the question detail or query for this type of question. The test taker will automatically get a textbox for filling out his or her answer.  
+	* Short answer: Usually single line short answers.  
+	* Long answer: More possibly to be very long descriptive answers.	
 
 ![Short answer](images/courses-test-short.png)
-
-Simply fill out the question detail or query for this type of question. The test taker will automatically get a textbox for filling out his or her answer.
-
-* Text - Long answer
-
 ![Long answer](images/courses-test-long.png)
 
-Simply fill out the question detail or query for this type of question. The test taker will automatically get a textbox for filling out his or her answer.
 
-* Multiple Choice - single answer
+* Multiple Choice - Click the "Add Choice" button to create a choice of answers for the question. The checkboxes denote the correct answers for the question and are required for creation of the question. Click the red circle button to the right of the choice to delete it from the question.
+	* Single answer: Only __one__ checkbox can be chosen for this type of question.  
+	In the image seen first below, the correct answer is set by checkbox to be the second choice, "Two".  
+	
+	* Multiple answer  
+	In the image seen last below, the correct answer is set by checkbox to be the first, second, and fourth choices, "One", "Two", and "Four".
 
 ![Multiple choice single answer](images/courses-test-mc-single.png)
-
-Click the "Add Choice" button to create a choice of answers for the question. The checkboxes denote the correct answer for the question and is required for creation of the question. Only one checkbox can be chosen for this type of question. Click the red circle button to the right of the choice to delete it from the question.
-
-In the image seen above, the correct answer is set by checkbox to be the second choice, "Two".
-
-* Multiple Choice - multiple answer
-
 ![Multiple choice multiple answer](images/courses-test-mc-multiple.png)
-
-Click the "Add Choice" button to create a choice of answers for the question. The checkboxes denote the correct answers for the question and are required for creation of the question. Click the red circle button to the right of the choice to delete it from the question.
-
-In the image seen above, the correct answer is set by checkbox to be the first, second, and fourth choices, "One", "Two", and "Four".
 
 While multiple choice questions are automatically graded, text questions must be manually graded.
 
@@ -274,35 +267,23 @@ Surveys are nearly identical to tests in function, but are used for the purpose 
 
 ![Survey creation](images/courses-survey.png)
 
-Upon clicking the "Add Question" button, you will find there are four types of questions: 
+Upon clicking the "Add Question" button, you will find there are four types of questions based on two categories __Text__ and __Multiple Choice__:  
 
-* Text - Short answer
+
+* Text - Simply fill out the question detail or query for this type of question. The survey taker will automatically get a textbox for filling out his or her answer.  
+	* Short answer: Usually single line short answers.  
+	* Long answer: More possibly to be very long descriptive answers.  
 
 ![Short answer](images/courses-test-short.png)
-
-Simply fill out the question detail or query for this type of question. The survey taker will automatically get a textbox for filling out his or her answer.
-
-* Text - Long answer
-
 ![Long answer](images/courses-test-long.png)
 
-Simply fill out the question detail or query for this type of question. The survey taker will automatically get a textbox for filling out his or her answer.
 
-* Multiple Choice - single answer
-
+* Multiple Choice - Click the "Add Choice" button to create a choice of answers for the question. Click the red circle button to the right of the choice to delete it from the question. __Unlike tests, there are no checkboxes denoting the "correct" choice, as this is a survey.__  
+	* Single answer  
+	* Multiple answer  
+	
 ![Multiple choice single answer](images/courses-survey-mc-single.png)
-
-Click the "Add Choice" button to create a choice of answers for the question. Click the red circle button to the right of the choice to delete it from the question. Unlike tests, there are no checkboxes denoting the "correct" choice, as this is a survey.
-
-* Multiple Choice - multiple answer
-
 ![Multiple choice multiple answer](images/courses-survey-mc-multiple.png)
-
-Click the "Add Choice" button to create a choice of answers for the question. Click the red circle button to the right of the choice to delete it from the question.  Unlike tests, there are no checkboxes denoting the "correct" choice, as this is a survey.
-
-While multiple choice questions are automatically graded, text questions must be manually graded.
-
-For multiple choice questions, click the "Add Choice" button to create a choice of answers for the question. Click the red circle button to delete the choice from the question.
 
 Fill out the appropriate fields on however many questions you want for this survey. When you are finished, press the "Preview Survey" button to preview how your survey will look, then press the "Save" button to save the entire survey.
 
@@ -658,3 +639,16 @@ To perform Manage Sync, simply click on the Manage Sync button in the Manager pa
 	
 ![](images/planet-manager-sync.png)
 
+## Community Page
+Once a user successfully logs in to Planet, they will see the following screen. If you are using the community version, the left side of the panel (see red box) has four tabs __News__, __Community Leaders__, __Services__, and __Finances__ and the right side of the panel (see blue box) has a calendar view.  
+
+![community page](images/community-page.png)
+
+Here is the breakdown of what each tab does:  
+
+* __News__: Manage stories by creating, editing, or deleting your story, or by replying to a story within the community.  
+* __Community Leaders__: See the list of all admins and leaders within the community. (Users also have the option of changing the title of a member.)  
+* __Services__: Displays details and information about the community. Users can edit the community description and link the associated teams or enterprises to the community.  
+* __Finances__: Displays all transactions related to the community, including income and spendings.  
+
+The calendar section is used to manage events. Click on the __"Add Event"__ button to create an event. Once the event is created and displayed on the calendar, users can edit or delete the event. 
