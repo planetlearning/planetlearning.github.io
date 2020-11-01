@@ -15,7 +15,7 @@ Some of my favorite hobbies include:
 3.  Hiking  
 
 
-| Favorite prgramming languages |
+| **Favorite prgramming languages** |
 | ----------------------------- |
 | Swift                         |
 | JavaScript                    |
