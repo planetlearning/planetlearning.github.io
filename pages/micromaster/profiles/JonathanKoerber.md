@@ -37,6 +37,6 @@ XML | Git
 * ITIL Foundations
 
 ### Contact:
-[GitHub](https://github.com/JonathanKoerber) | [Email](jonathankoerber@gmail.com)
+[GitHub](https://github.com/JonathanKoerber) | [LinkedIn](https://www.linkedin.com/in/jonathan-koerber-864b36123/)
 
 ##### I'm very excited to be here and ready to get started!
