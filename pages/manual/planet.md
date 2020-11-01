@@ -229,34 +229,26 @@ When creating a step, click on the "Add Test" button to create a test for what y
 
 ![Test creation](images/courses-test.png)
 
-Upon clicking the "Add Question" button, you will find there are four types of questions: 
-* Text - Short answer
+Upon clicking the "Add Question" button, you will find there are four types of questions based on two categories __Text__ and __Multiple Choice__:  
+
+
+* Text - Simply fill out the question detail or query for this type of question. The test taker will automatically get a textbox for filling out his or her answer.  
+	* Short answer: Usually single line short answers.  
+	* Long answer: More possibly to be very long descriptive answers.	
 
 ![Short answer](images/courses-test-short.png)
-
-Simply fill out the question detail or query for this type of question. The test taker will automatically get a textbox for filling out his or her answer.
-
-* Text - Long answer
-
 ![Long answer](images/courses-test-long.png)
 
-Simply fill out the question detail or query for this type of question. The test taker will automatically get a textbox for filling out his or her answer.
 
-* Multiple Choice - single answer
+* Multiple Choice - Click the "Add Choice" button to create a choice of answers for the question. The checkboxes denote the correct answers for the question and are required for creation of the question. Click the red circle button to the right of the choice to delete it from the question.
+	* Single answer: Only __one__ checkbox can be chosen for this type of question.  
+	In the image seen first below, the correct answer is set by checkbox to be the second choice, "Two".  
+	
+	* Multiple answer  
+	In the image seen last below, the correct answer is set by checkbox to be the first, second, and fourth choices, "One", "Two", and "Four".
 
 ![Multiple choice single answer](images/courses-test-mc-single.png)
-
-Click the "Add Choice" button to create a choice of answers for the question. The checkboxes denote the correct answer for the question and is required for creation of the question. Only one checkbox can be chosen for this type of question. Click the red circle button to the right of the choice to delete it from the question.
-
-In the image seen above, the correct answer is set by checkbox to be the second choice, "Two".
-
-* Multiple Choice - multiple answer
-
 ![Multiple choice multiple answer](images/courses-test-mc-multiple.png)
-
-Click the "Add Choice" button to create a choice of answers for the question. The checkboxes denote the correct answers for the question and are required for creation of the question. Click the red circle button to the right of the choice to delete it from the question.
-
-In the image seen above, the correct answer is set by checkbox to be the first, second, and fourth choices, "One", "Two", and "Four".
 
 While multiple choice questions are automatically graded, text questions must be manually graded.
 
@@ -274,35 +266,23 @@ Surveys are nearly identical to tests in function, but are used for the purpose 
 
 ![Survey creation](images/courses-survey.png)
 
-Upon clicking the "Add Question" button, you will find there are four types of questions: 
+Upon clicking the "Add Question" button, you will find there are four types of questions based on two categories __Text__ and __Multiple Choice__:  
 
-* Text - Short answer
+
+* Text - Simply fill out the question detail or query for this type of question. The survey taker will automatically get a textbox for filling out his or her answer.  
+	* Short answer: Usually single line short answers.  
+	* Long answer: More possibly to be very long descriptive answers.  
 
 ![Short answer](images/courses-test-short.png)
-
-Simply fill out the question detail or query for this type of question. The survey taker will automatically get a textbox for filling out his or her answer.
-
-* Text - Long answer
-
 ![Long answer](images/courses-test-long.png)
 
-Simply fill out the question detail or query for this type of question. The survey taker will automatically get a textbox for filling out his or her answer.
 
-* Multiple Choice - single answer
-
+* Multiple Choice - Click the "Add Choice" button to create a choice of answers for the question. Click the red circle button to the right of the choice to delete it from the question. __Unlike tests, there are no checkboxes denoting the "correct" choice, as this is a survey.__  
+	* Single answer  
+	* Multiple answer  
+	
 ![Multiple choice single answer](images/courses-survey-mc-single.png)
-
-Click the "Add Choice" button to create a choice of answers for the question. Click the red circle button to the right of the choice to delete it from the question. Unlike tests, there are no checkboxes denoting the "correct" choice, as this is a survey.
-
-* Multiple Choice - multiple answer
-
 ![Multiple choice multiple answer](images/courses-survey-mc-multiple.png)
-
-Click the "Add Choice" button to create a choice of answers for the question. Click the red circle button to the right of the choice to delete it from the question.  Unlike tests, there are no checkboxes denoting the "correct" choice, as this is a survey.
-
-While multiple choice questions are automatically graded, text questions must be manually graded.
-
-For multiple choice questions, click the "Add Choice" button to create a choice of answers for the question. Click the red circle button to delete the choice from the question.
 
 Fill out the appropriate fields on however many questions you want for this survey. When you are finished, press the "Preview Survey" button to preview how your survey will look, then press the "Save" button to save the entire survey.
 
