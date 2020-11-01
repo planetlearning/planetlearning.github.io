@@ -65,22 +65,22 @@ Click on the profile button in the top right corner of Planet. Here, you can vie
 ---  
 
 # Using Planet  
-The following section breaks down the main actions you can do on Planet:
+For users that use the nation version of Planet, they will see __Nation__ highlighted in the menu (see first image) and those that use the community version of Planet, they will see __Community__ highlighted in the menu (see second image).
+
+![nation version dashboard](images/nation-page-view.png)
+![community version dashboard](images/community-page-view.png)
+
+For community version users, the following section breaks down the main actions you can do on Planet:
 
 ### Main Menu  
 
 - **[Library](#Library):** Manage resources within the community by filtering, searching or adding resources.  
 - **[Courses](#Courses):** Manage courses by (1) joining a course, adding and sending a course to the remote database, and deleting a course or by (2) adding tests or surveys to a course.  
-- **[Meetups](#Meetups):** Manage meetups to coordinate meetups by creating, inviting members to, joining, and leaving a meetup.  
 - **[Teams](#Teams):** Create teams to manage members, communicate with members, or offering courses to members.  
-- **[Surveys](#Surveys):** Manage surveys by editing, sending, and recording a survey.  
+- **Enterprises**  
 
-### Other Actions
-- **[News](#News):** See posts from users within the community or create a post.  
-- **[Achievement](#Achievement):** Edit your achievement page by adding an achievement or reference.  
-- **[Feedback](#Feedback):** Manage feedbacks by giving, viewing, replying, closing or reopening a feedback.  
-- **[Manager](#Manager):** With the role as manager, you can access the dashboard to promote a member to the manager role, viewing reports, syncing the community with the nation, and performing updates.  
-  
+Read [here](#Community_Page) for more information on the Community version main page.
+
 ---  
 
 ## Library
