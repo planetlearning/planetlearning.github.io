@@ -659,7 +659,7 @@ To perform Manage Sync, simply click on the Manage Sync button in the Manager pa
 ![](images/planet-manager-sync.png)
 
 ## Community Page
-__Updated since 0.10.23__ Once a user successfully logs in to Planet, they will see the following screen. If you are using the community version, the left side of the panel (see red box) has four tabs __News__, __Community Leaders__, __Services__, and __Finances__ and the right side of the panel (see blue box) has a calendar view.  
+Once a user successfully logs in to Planet, they will see the following screen. If you are using the community version, the left side of the panel (see red box) has four tabs __News__, __Community Leaders__, __Services__, and __Finances__ and the right side of the panel (see blue box) has a calendar view.  
 
 ![community page](images/community-page.png)
 
