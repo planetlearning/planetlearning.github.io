@@ -284,8 +284,6 @@ Upon clicking the "Add Question" button, you will find there are four types of q
 ![Multiple choice single answer](images/courses-survey-mc-single.png)
 ![Multiple choice multiple answer](images/courses-survey-mc-multiple.png)
 
-While multiple choice questions are automatically recorded, text questions must be manually recorded.
-
 Fill out the appropriate fields on however many questions you want for this survey. When you are finished, press the "Preview Survey" button to preview how your survey will look, then press the "Save" button to save the entire survey.
 
 ### Course Collections
