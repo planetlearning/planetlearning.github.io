@@ -452,7 +452,9 @@ To manage teams you would have to click on `Manage` as seen below
 You will then arrive at this page where you will have many potential actions:
 
 ![Manage Teams](images/planet-teams-view.png)
+
 These actions will be explained in depth below:
+
 1. `New Message`
 2. `Add Members`
 3. `Manage Courses` 
