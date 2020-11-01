@@ -143,7 +143,7 @@ By clicking on "Title", or "Rating", you are able to sort the course list accord
 
 * Action Menu
 
-By clicking the checkbox left of a resource, you are able to use action menu.
+By clicking the checkbox left of a course, you are able to use action menu.
 
 ![Menu](images/courses-menu.png)
 
