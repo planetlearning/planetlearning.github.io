@@ -377,7 +377,7 @@ Only a single answer may be selected by the radio buttons to the left of the ans
 Multiple answers may be selected by the checkboxes to the left of the answer choices. Click on "Submit Answer" to submit your selected answers.
 
 ## Exams
-Exams is part of Course, which is used to evaluate progress of members taking course.
+Exams is part of course, which is used to evaluate progress of members taking course.
 
 ## Surveys
 Surveys is where you can create your survey and send it to others.
@@ -459,7 +459,7 @@ These actions will be explained in depth below:
 3. `Manage Courses` 
 4. `Accept` or `Reject`
 
-You are also able to leave the meeting with the `Leave` button
+You are also able to leave the meeting with the `Leave` button.
 
 #### 1. New Message
 After clicking the `New Message` button, you will be able to make a post to the team
@@ -467,12 +467,12 @@ After clicking the `New Message` button, you will be able to make a post to the 
 ![New Message](images/planet-teams-msg.png)
 
 #### 2. Add members
-After clicking the `Add Members` button, you will be able to add members
+After clicking the `Add Members` button, you will be able to add members.
 
 ![Add Members](images/planet-teams-members.png)
 
 #### 3. Manage Courses
-After clicking the `Add Courses` button, you will be able to add and remove courses
+After clicking the `Add Courses` button, you will be able to add and remove courses.
 
 ![Teams Courses](images/planet-teams-courses.png)
 
@@ -595,7 +595,7 @@ As you can see below, once you are in your planet dashboard you can add feedback
   
 
 ### View Feedbacks
-Firstly, you can view your feedbacks by going to the `Manager Page` (Picture 1) then `Feedbacks` (Picture 2) to view the feedback list.
+Firstly, you can view your feedback by going to the `Manager Page` (Picture 1) then `Feedbacks` (Picture 2) to view the feedback list.
 
 ![Dashboard Feedback](images/planet-feedback-to-manager.png)
 ![Manager Feedback](images/planet-feedback-manager.png)
@@ -608,7 +608,7 @@ Then you can reply to it
 ![Reply Feedback](images/planet-reply-feedback.png)
 
 ### Closing And Reopening Feedbacks
-By clicking the dotted menu under actions, you will be able to close an open feedback (Picture 1) or reopen a closed one (Picture 2)
+By clicking the dotted menu under actions, you will be able to close and open feedback (Picture 1) or reopen a closed one (Picture 2)
 
 ![Close Feedback](images/planet-close-feedback.png)
 ![Reopen Feedback](images/planet-reopen-feedback.png)
