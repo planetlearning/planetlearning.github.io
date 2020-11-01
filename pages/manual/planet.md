@@ -109,6 +109,7 @@ The admin of the community can create "Collections" to categorize the resources.
 ![](images/planet-library-collections.png)
 
 ### Resource View
+If you click a title of a resource, you can get a resource view page.
 The resource view page looks like this:
 
 ![](images/planet-library-resource-view.png)
@@ -153,11 +154,11 @@ The action menu has several different actions available.
 
 ![course-added](images/my-courses-added.png)
 
-Alternatively, click on your course on the courses list then click the "Join" button near the top-right of the course page.
+Alternatively, click on your course on the courses list to get the course page then click the "Join" button near the top-right of the course page.
 
 3. To leave a course, select the checkbox next to a course that you are already a part of then click the "Leave Selected" button. The selected course is no longer part of your myCourses, and can no longer be seen on the front page's dashboard. Multiple courses are able to be left at once.
 
-Alternatively, click on your course on the courses list then click the "Leave" button near the top-right of the course page.
+Alternatively, click on your course on the courses list to get the course page then click the "Leave" button near the top-right of the course page.
 
 4. To change a collection, select the checkbox next to a course then click "Change Collections". To learn what a collection is, click [here](#Course_Collections).
 
