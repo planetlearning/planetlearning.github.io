@@ -233,13 +233,10 @@ Upon clicking the "Add Question" button, you will find there are four types of q
 
 
 * Text - Simply fill out the question detail or query for this type of question. The test taker will automatically get a textbox for filling out his or her answer.  
-
-	* Short answer: Usually single line short answers. 
-
-![Short answer](images/courses-test-short.png)
-
+	* Short answer: Usually single line short answers.  
 	* Long answer: More possibly to be very long descriptive answers.	
 
+![Short answer](images/courses-test-short.png)
 ![Long answer](images/courses-test-long.png)
 
 
@@ -273,22 +270,18 @@ Upon clicking the "Add Question" button, you will find there are four types of q
 
 
 * Text - Simply fill out the question detail or query for this type of question. The survey taker will automatically get a textbox for filling out his or her answer.  
-	* Short answer: Usually single line short answers. 
-
-![Short answer](images/courses-test-short.png)
-
+	* Short answer: Usually single line short answers.  
 	* Long answer: More possibly to be very long descriptive answers.  
 
+![Short answer](images/courses-test-short.png)
 ![Long answer](images/courses-test-long.png)
 
 
 * Multiple Choice - Click the "Add Choice" button to create a choice of answers for the question. Click the red circle button to the right of the choice to delete it from the question. __Unlike tests, there are no checkboxes denoting the "correct" choice, as this is a survey.__  
 	* Single answer  
-
-![Multiple choice single answer](images/courses-survey-mc-single.png)
-
 	* Multiple answer  
 	
+![Multiple choice single answer](images/courses-survey-mc-single.png)
 ![Multiple choice multiple answer](images/courses-survey-mc-multiple.png)
 
 Fill out the appropriate fields on however many questions you want for this survey. When you are finished, press the "Preview Survey" button to preview how your survey will look, then press the "Save" button to save the entire survey.
