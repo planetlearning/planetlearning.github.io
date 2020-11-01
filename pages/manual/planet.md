@@ -39,7 +39,7 @@ Under the Planet system, there are two types of structures: **Nations** and **Co
   * Each **Community** connects periodically to a **Nation** via _internet_ in order to receive new materials and to upload user metrics.
   * A **Community** is not able to connect to other **Communities**.
 
-The **nations** may store thousands of Resources in many formats and languages. Unique collections of Resources can be selected and downloaded into each **Community** from the **Nation**. This gives a Learner a personalized approach to his or her education.
+The **Nations** may store thousands of Resources in many formats and languages. Unique collections of Resources can be selected and downloaded into each **Community** from the **Nation**. This gives a Learner a personalized approach to his or her education.
 
 ## Become Member
 To be able to use **PLANET** you need to be part of the system. First thing you 
