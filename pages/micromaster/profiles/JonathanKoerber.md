@@ -36,4 +36,7 @@ XML | Git
 * Microsoft MTA-396
 * ITIL Foundations
 
+### Contact:
+[GitHub](https://github.com/JonathanKoerber) | [Email](jonathankoerber@gmail.com)
+
 ##### I'm very excited to be here and ready to get started!
