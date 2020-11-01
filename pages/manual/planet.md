@@ -153,11 +153,11 @@ The action menu has several different actions available.
 
 ![course-added](images/my-courses-added.png)
 
-Alternatively, click on your course on the courses list then click the "Join" button near the top-right of the course page.
+Alternatively, click on your course on the courses list to get the course page then click the "Join" button near the top-right of the course page.
 
 3. To leave a course, select the checkbox next to a course that you are already a part of then click the "Leave Selected" button. The selected course is no longer part of your myCourses, and can no longer be seen on the front page's dashboard. Multiple courses are able to be left at once.
 
-Alternatively, click on your course on the courses list then click the "Leave" button near the top-right of the course page.
+Alternatively, click on your course on the courses list to get the course page then click the "Leave" button near the top-right of the course page.
 
 4. To change a collection, select the checkbox next to a course then click "Change Collections". To learn what a collection is, click [here](#Course_Collections).
 
@@ -233,10 +233,13 @@ Upon clicking the "Add Question" button, you will find there are four types of q
 
 
 * Text - Simply fill out the question detail or query for this type of question. The test taker will automatically get a textbox for filling out his or her answer.  
-	* Short answer: Usually single line short answers.  
-	* Long answer: More possibly to be very long descriptive answers.	
+
+	* Short answer: Usually single line short answers. 
 
 ![Short answer](images/courses-test-short.png)
+
+	* Long answer: More possibly to be very long descriptive answers.	
+  
 ![Long answer](images/courses-test-long.png)
 
 
