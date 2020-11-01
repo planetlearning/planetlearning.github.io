@@ -658,3 +658,16 @@ To perform Manage Sync, simply click on the Manage Sync button in the Manager pa
 	
 ![](images/planet-manager-sync.png)
 
+## Community Page
+Once a user successfully logs in to Planet, they will see the following screen. If you are using the community version, the left side of the panel (see red box) has four tabs __News__, __Community Leaders__, __Services__, and __Finances__ and the right side of the panel (see blue box) has a calendar view.  
+
+![community page](images/community-page.png)
+
+Here is the breakdown of what each tab does:  
+
+* __News__: Manage stories by creating, editing, or deleting your story, or by replying to a story within the community.  
+* __Community Leaders__: See the list of all admins and leaders within the community. (Users also have the option of changing the title of a member.)  
+* __Services__: Displays details and information about the community. Users can edit the community description and link the associated teams or enterprises to the community.  
+* __Finances__: Displays all transactions related to the community, including income and spendings.  
+
+The calendar section is used to manage events. Click on the __"Add Event"__ button to create an event. Once the event is created and displayed on the calendar, users can edit or delete the event. 
