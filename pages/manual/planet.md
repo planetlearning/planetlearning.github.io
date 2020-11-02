@@ -57,6 +57,17 @@ To return to the login page from the "Become a member" page, click on the "Alrea
 ### Different kind of roles available in system
 There are several different roles available in Planet: "admin", "manager", "learner", "leader", and "monitor". Members are "learners" by default, and only the "admin" is allowed to set specific roles of members.
 
+## What are the differences between Learners, Leaders, and Managers?
+In the Planet system, there are three different kinds of users: Learners, Leaders, and Managers.
+
+**Learner** is the default user level when a person first joins. Each person continues to be a Learner regardless of additional responsibilities and roles. All Learners have access to standard and individualized user functionality.
+
+**Leaders** are Learners that have created a Course or have become Course Leaders. Leaders have access to all Learner functionality and to additional Course management functionality.
+
+**Managers** have access to Learner, Leader, and additional functionality that allow them to manage local Resources, publications, collections, surveys, data sync schedules, and local software updates.
+
+If you are currently using this manual, then you are most likely a manager who is organizing and overseeing a Community or a Nation and its Communities. In order to see the available manager functionality, click on “Manager” next to your name on the Dashboard (see below, *How do I navigate the Dashboard*). Managers can also add, hide, delete, and view the details of Resources as well they can create, edit, re-categorize, and delete collections.
+
 ### User profile
 Click on the profile button in the top right corner of Planet. Here, you can view or edit your profile, change your password, or logout. Be sure to log out once you are finished with your session.
 
