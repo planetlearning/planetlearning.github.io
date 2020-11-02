@@ -608,7 +608,7 @@ Then you can reply to it
 ![Reply Feedback](images/planet-reply-feedback.png)
 
 ### Closing And Reopening Feedbacks
-By clicking the dotted menu under actions, you will be able to close and open feedback (Picture 1) or reopen a closed one (Picture 2)
+By clicking the dotted menu under actions, you will be able to close an open feedback (Picture 1) or reopen a closed one (Picture 2)
 
 ![Close Feedback](images/planet-close-feedback.png)
 ![Reopen Feedback](images/planet-reopen-feedback.png)
