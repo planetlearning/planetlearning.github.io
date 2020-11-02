@@ -57,7 +57,7 @@ To return to the login page from the "Become a member" page, click on the "Alrea
 ### Different kind of roles available in system
 There are several different roles available in Planet: "admin", "manager", "learner", "leader", and "monitor". Members are "learners" by default, and only the "admin" is allowed to set specific roles of members.
 
-## What are the differences between Learners, Leaders, and Managers?
+### What are the differences between Learners, Leaders, and Managers?
 In the Planet system, there are three different kinds of users: Learners, Leaders, and Managers.
 
 **Learner** is the default user level when a person first joins. Each person continues to be a Learner regardless of additional responsibilities and roles. All Learners have access to standard and individualized user functionality.
