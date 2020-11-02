@@ -160,7 +160,7 @@ Alternatively, click on your course on the courses list to get the course page t
 
 Alternatively, click on your course on the courses list to get the course page then click the "Leave" button near the top-right of the course page.
 
-4. To change a collection, select the checkbox next to a course then click "Change Collections". To learn what a collection is, click [here](#Course_Collections).
+4. To change a collection, select the checkbox next to a course then click "Change Collections". To learn what a collection is, click [here](https://planetlearning.github.io/#!./pages/micromaster/../manual/planet.md#Courses).
 
 5. To send a newly created course to be updated in the remote database, select the checkbox next to a course, click on "Manager Actions", then click on "Send Courses". You will need to enter your administrator password.
 
