@@ -71,7 +71,7 @@ The Library page can be accessed through the menu bar at the top, or by clicking
 ![](images/planet-home-library.png)
 
 ### List of Resources
-Here, you can view the list of all the resources available to you in the Library.
+Here, you can view the list of all the resources available to you in the Library.Resources are alphabetized which allows Learners to select the first letter of their Resource or the page number they wish to view. Additionally, library Resources can be organized into collections which allow Learners to categorize and group Resources by subject or other attributes. Both Resources and collections are explained in further depth below.
 
 ![](images/planet-library.png)
 
