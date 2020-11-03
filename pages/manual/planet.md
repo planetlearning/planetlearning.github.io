@@ -600,7 +600,7 @@ As you can see below, once you are in your planet dashboard you can add feedback
 
     ![Teams Feedback](images/planet-feedback-teams.png)
 
-3. Meetups
+4. Meetups
 
     ![Meetups Feedback](images/planet-feedback-meetups.png)
 
@@ -648,7 +648,7 @@ You can view the list of members by clicking on the members button. Here, you ca
 
 ### Manage Sync
 	
-To perform Manage Sync, simply click on the Manage Sync button in the Manager page, then click the Run Sync button.
+To perform Manage Sync, simply click on the Manage Sync button on the Manager page, then click the Run Sync button.
 	
 ![](images/planet-manager-sync.png)
 
