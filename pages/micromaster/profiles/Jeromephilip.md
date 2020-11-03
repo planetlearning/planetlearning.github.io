@@ -40,9 +40,9 @@ Throughout my high school career, I have been involved in a variety projects. So
  
 6. Currently working on a website for my school's chess club by using ReactJS. 
  
- ## Contact Me
- [**LinkedIn**](https://www.linkedin.com/in/jerome-philip-89a446196/), [**GitHub**](https://github.com/Jeromephilip)
+## Contact Me
+[**LinkedIn**](https://www.linkedin.com/in/jerome-philip-89a446196/), [**GitHub**](https://github.com/Jeromephilip)
  
- ## Final thoughts
+## Final thoughts
  
  > I am excited to work with OpenLearningExchange and contribute my ideas and time to helping achieve this organization's mission. Cannot wait to work with y'all!
