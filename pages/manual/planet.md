@@ -73,7 +73,26 @@ If you are currently using this manual, then you are most likely a manager who i
 ### User profile
 Click on the profile button in the top right corner of Planet. Here, you can view or edit your profile, change your password, or logout. Be sure to log out once you are finished with your session.
 
-![](images/planet-home-profile.png)
+![](images/planet-home-profile.png)  
+
+---  
+
+# Using Planet  
+For users that use the nation version of Planet, they will see __Nation__ highlighted in the menu (see first image) and those that use the community version of Planet, they will see __Community__ highlighted in the menu (see second image).
+
+![nation version dashboard](images/nation-page-view.png)
+![community version dashboard](images/community-page-view.png)
+
+The following section breaks down the main actions you can do on Planet:
+
+- **[Library](#Library):** Manage resources within the community by filtering, searching or adding resources.  
+- **[Courses](#Courses):** Manage courses by (1) joining a course, adding and sending a course to the remote database, and deleting a course or by (2) adding tests or surveys to a course.  
+- **[Teams](#Teams):** Create teams to manage members, communicate with members, or offering courses to members.  
+- **Enterprises**  
+
+Read [here](#Community_Page) for more information on the Community version main page.
+
+---  
 
 ## Library
 The Library is home to the community's collection of media and other resources.
