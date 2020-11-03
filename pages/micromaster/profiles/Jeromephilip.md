@@ -25,12 +25,19 @@ Git | 2
 ### Past & Current Projects/Education
 
 Throughout my high school career, I have been involved in a variety projects. Some include:
+
 * Creating a multitude of games in one of python's famous module, pygame
+
   * Games Created: Space Invaders, Guess Who, and Card Matcher
+  
  * Completed Python Data Structures and Algorithms Udemy Course
+ 
  * Recently learned Web Development and completed The Complete Development Bootcamp Udemy Course
+ 
  * Finishing Grade 11 Computer Science with a 98%. Top 3 students in the class.
+ 
  * An active participant in the Canadian Computing Competition (CCC)
+ 
  * Currently working on a website for my school's chess club by using ReactJS. 
  
  ## Contact Me
