@@ -1,18 +1,15 @@
 
 
-# console.log(Info())
+## Info()
 
  `struct * info = NULL;`  
  `info -> name = Huy Hoang;`  
  `info -> time_zone = Indochina`  
  `info -> OS = win10`  
-* I'm **Cody Hoang** from Vietnam :earth_asia:. 
-* My current time zone is **Indochina Time (ICT)**.
-* OS that I'm using is window 10 - 64 bits.
 
 ## Personality
 
-I'm a rising senior from *Umass Amherst* majors in ~~CoMpuTeR SciEnCe~~. I'm :two::one: years young and actively looking for a full time job. I'm diligent but easy going, enjoy the outdoor
+I'm a rising senior from *Umass Amherst* majors in ~~CoMpuTeR SciEnCe~~. I'm 21 years young and actively looking for a full time job. I'm diligent but easy going, enjoy the outdoor
 and love to travel. I'm a **GAMER** at heart which makes myself a tryhard at everything I do. I always strive for the best outcome disregarding the circumstances nor conditions.
 I hope to build valuable companionship along with gaining useful experiences. 
 
@@ -20,20 +17,20 @@ I hope to build valuable companionship along with gaining useful experiences.
 
 | Languagues | Rating |
 | ----------- | ----------- |
-| Python 3| :+1::+1::+1::+1::+1:|
-| Java | :+1::+1::+1: |
-|JS| :+1::+1::+1:|
-|HTML, CSS| :+1: :+1::+1:|
-|C| :+1::+1::+1:|
-|C++| :+1::+1::+1::+1:|  
+| Python 3| 5:|
+| Java | 3 |
+|JS| 3 |
+|HTML, CSS| 3|
+|C| 4|
+|C++| 4|  
 
 
 |Tools | Rating |
 |---------|---------|
-|React|:+1::+1::+1:|
-|Docker| :+1::+1::+1:|
-|Node.js| :+1::+1::+1::+1:|
-|Jenkins| :+1::+1::+1:|
+|React|3|
+|Docker| 3|
+|Node.js| 4|
+|Jenkins| 3|
 
 
 ## ~~Things that need attention.~~ 
