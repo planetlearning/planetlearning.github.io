@@ -226,6 +226,16 @@ At the bottom-right of the page, you can see your pagination options. You are ab
 
 ![Pagination](images/courses-pagination.png)
 
+* Course Listing View  
+
+Once you have clicked on an item in Courses, you will see the following view (see image). Within the listing (see blue box), there will be a row of icons that tell you what you can do for the course. In this example, the clipboard icon (see black circle) shows that you can take a test for this course. The paperclip icon (see red circle) shows that there's a resource attached to this course.  
+
+![course listing view](images/course-view.png)
+
+If you click on the blue box, the view is expanded (see image) and you can take actions by clicking on the __View Resource__ or (in this case) __Preview__ buttons. If "View Resource" is clicked on, a new page will pop up with the resource shown. If "Preview" is clicked on, you can see the test. (If you have not joined the course, you will only see the Preview button and not the Take Test button.) To learn more about taking tests, read [here](#Taking_a_Test).  
+
+![course listing view expanded](images/course-view-expanded.png)
+
 ### Adding Course
 
 To begin adding a course, press the "+" button on the action menu.
