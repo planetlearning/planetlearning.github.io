@@ -15,7 +15,7 @@ NOTE: If you don't have access to an Android device, you can skip this step.
 
 ## Overview of myPlanet
 
-myPlanet is the our mobile effort of Planet application. myPlanet connect with Planet server to get data. Using myPlanet you can have offline experience of our Planet application.
+myPlanet is our mobile effort of Planet application. myPlanet connect with Planet server to get data. Using myPlanet you can have offline experience of our Planet application.
 
 We suggest you play around a bit, try to explore and feel comfortable with myPlanet.
 
