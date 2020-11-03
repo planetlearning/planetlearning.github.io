@@ -7,7 +7,7 @@
  `info -> time_zone = Indochina`  
  `info -> OS = win10`  
 
-## Personality
+## About me
 
 I'm a rising senior from *Umass Amherst* majors in ~~CoMpuTeR SciEnCe~~. I'm 21 years young and actively looking for a full time job. I'm diligent but easy going, enjoy the outdoor
 and love to travel. I'm a **GAMER** at heart which makes myself a tryhard at everything I do. I always strive for the best outcome disregarding the circumstances nor conditions.
