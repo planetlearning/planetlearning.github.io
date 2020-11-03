@@ -22,7 +22,7 @@ Currently working in Seattle cooking meals for people experiencing homelessness 
 
  
  Languages: | | |
------- | ------- | --------
+:--- | :--- | :---
 Python | Java | JavaScript |
 HTML| CSS3 | SQL |
 XML | Git
