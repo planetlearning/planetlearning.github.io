@@ -151,6 +151,8 @@ On this page, you can open the resource in a new tab, add it to your library, an
 ## Courses
 The Courses page is where you can create and join a variety of different courses where you can learn many different topics.
 
+A Course allows Leaders to walk Learners through specific resources and exercises to learn new skills.
+
 ### Getting to the Courses Page
 There are two ways to get to the Courses page:
 
