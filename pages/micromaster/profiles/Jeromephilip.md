@@ -24,7 +24,7 @@ Git | 2
 
 ### Past & Current Projects/Education
 
-Throughout my high school career, I have been involved in a variety projects. Some include:
+Throughout my high school **career**, I have been involved in a variety projects. Some include:
 
 * Creating a multitude of games in one of python's famous module, pygame
 
