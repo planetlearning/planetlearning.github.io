@@ -21,10 +21,10 @@ Currently working in Seattle cooking meals for people experiencing homelessness 
 * relational databases 
 
  
- Languages: | | 
-:--- | :--- | :---
-Python | Java | JavaScript |
-HTML| CSS3 | SQL |
+Languages: |  |
+-----------| ------- | ---------
+Python | Java | JavaScript 
+HTML| CSS3 | SQL 
 XML | Git
 
 
@@ -39,4 +39,3 @@ XML | Git
 ### Contact:
 [GitHub](https://github.com/JonathanKoerber) | [LinkedIn](https://www.linkedin.com/in/jonathan-koerber-864b36123/)
 
-##### I'm very excited to be here and ready to get started!
