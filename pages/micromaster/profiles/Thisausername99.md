@@ -17,7 +17,7 @@ I hope to build valuable companionship along with gaining useful experiences.
 
 | Languagues | Rating |
 | ----------- | ----------- |
-| Python 3| 5:|
+| Python 3| 5 |
 | Java | 3 |
 |JS| 3 |
 |HTML, CSS| 3|
@@ -34,8 +34,8 @@ I hope to build valuable companionship along with gaining useful experiences.
 
 
 ## ~~Things that need attention.~~ 
-1. :link: [Personal website] https://personal-site-ea6a8.web.app/.  
-2. :link: [Linkedln] https://www.linkedin.com/in/huy-hoang-cody/.
+1. [Personal website] https://personal-site-ea6a8.web.app/.  
+2. [Linkedln] https://www.linkedin.com/in/huy-hoang-cody/.
 
 
 
