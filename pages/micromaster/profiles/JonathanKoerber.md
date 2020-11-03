@@ -21,11 +21,11 @@ Currently working in Seattle cooking meals for people experiencing homelessness 
 * relational databases 
 
  
-Languages: |  |
------------| ------- | ---------
-Python | Java | JavaScript 
-HTML| CSS3 | SQL 
-XML | Git
+Languages | Frameworks 
+-----------| ------- 
+Python | Flask
+JavaScript | REACT, Gatsby
+Java | Android
 
 
 
