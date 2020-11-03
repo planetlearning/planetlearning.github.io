@@ -26,19 +26,19 @@ Git | 2
 
 Throughout my high school career, I have been involved in a variety projects. Some include:
 
-* Creating a multitude of games in one of python's famous module, pygame
+1. Creating a multitude of games in one of python's famous module, pygame
 
   * Games Created: Space Invaders, Guess Who, and Card Matcher
   
-* Completed Python Data Structures and Algorithms Udemy Course
+2. Completed Python Data Structures and Algorithms Udemy Course
  
-* Recently learned Web Development and completed The Complete Development Bootcamp Udemy Course
+3. Recently learned Web Development and completed The Complete Development Bootcamp Udemy Course
  
-* Finishing Grade 11 Computer Science with a 98%. Top 3 students in the class.
+4. Finishing Grade 11 Computer Science with a 98%. Top 3 students in the class.
  
-* An active participant in the Canadian Computing Competition (CCC)
+5. An active participant in the Canadian Computing Competition (CCC)
  
-* Currently working on a website for my school's chess club by using ReactJS. 
+6. Currently working on a website for my school's chess club by using ReactJS. 
  
  ## Contact Me
  [**LinkedIn**](https://www.linkedin.com/in/jerome-philip-89a446196/), [**GitHub**](https://github.com/Jeromephilip)
