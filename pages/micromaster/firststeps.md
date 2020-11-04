@@ -116,4 +116,4 @@ Please create new repository and commit changes of the project for us to review.
 ## Step 9 - Join the team
 
 Next thing is to post a screenshot of your completed progress to the Slack chat. Click [here](trackprogress.md) to find your completed progress.
-Message us ("@lmmrssa" and "@dogi") and ask about adding yourself to the team list found in [team.md](team.md) and setting up a meeting so you can become a part of the team as soon as possible.
+Creat a Pull Request to add yourself [team.md](team.md). Then message us ("@lmmrssa" and "@dogi") at [slack](http://join.slack.ole.org) and ask about setting up a meeting so you can become a part of the team as soon as possible.
