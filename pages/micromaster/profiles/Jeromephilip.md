@@ -30,6 +30,7 @@ Throughout my high school career, I have been involved in a variety projects. So
 
    * Games Created: Space Invaders, Guess Who, and Card Matcher
   
+  
 2. Completed Python Data Structures and Algorithms Udemy Course
  
 3. Recently learned Web Development and completed The Complete Development Bootcamp Udemy Course
