@@ -5,7 +5,7 @@
 The [**Open Learning Exchange (OLE)**](http://ole.org) is committed to ensuring that everyone, especially children, has access to a high quality basic education. We work with nation-based entrepreneurs, educators, and practitioners committed to promoting highly effective and affordable learning systems that can benefit all of their people. We believe this will lead to more productive lives, communities, and nations, and to the possibility of a peaceful world. 
 
 
-OLE’s mission is to ensure learning for all, not only universal basic literacy and numeracy, but also vital knowledge and skills acquisition in the areas of health, nutrition, community development. Since 2007, OLE International has helped establish Open Learning Communities for children, adolescents, and young adults, including those whose lives have been disrupted by violent conflicts.  Today there are OLE affiliates in Asia, Africa, the Middle East, and Latin America.
+OLE’s mission is to ensure learning for all, not only universal basic literacy and numeracy, but also vital knowledge and skills acquisition in the areas of health, nutrition, and community development. Since 2007, OLE International has helped establish Open Learning Communities for children, adolescents, and young adults, including those whose lives have been disrupted by violent conflicts.  Today there are OLE affiliates in Asia, Africa, the Middle East, and Latin America.
 
 # PLANET
 
@@ -39,7 +39,9 @@ Under the Planet system, there are two types of structures: **Nations** and **Co
   * Each **Community** connects periodically to a **Nation** via _internet_ in order to receive new materials and to upload user metrics.
   * A **Community** is not able to connect to other **Communities**.
 
-The **nations** may store thousands of Resources in many formats and languages. Unique collections of Resources can be selected and downloaded into each **Community** from the **Nation**. This gives a Learner a personalized approach to his or her education.
+The **Nations** may store thousands of Resources in many formats and languages. Unique collections of Resources can be selected and downloaded into each **Community** from the **Nation**. This gives a Learner a personalized approach to his or her education.
+
+**NOTE:** Each Planet system is unique; universal memberships do not exist. If you become a member of a specific Nation or Community, you do not automatically become a member of any other existing Nations and Community. To become a member of another Nation or Community you must register with a new account.
 
 ## Become Member
 To be able to use **PLANET** you need to be part of the system. First thing you 
@@ -57,10 +59,40 @@ To return to the login page from the "Become a member" page, click on the "Alrea
 ### Different kind of roles available in system
 There are several different roles available in Planet: "admin", "manager", "learner", "leader", and "monitor". Members are "learners" by default, and only the "admin" is allowed to set specific roles of members.
 
+### What are the differences between Learners, Leaders, and Managers?
+In the Planet system, there are three different kinds of users: Learners, Leaders, and Managers.
+
+**Learner** is the default user level when a person first joins. Each person continues to be a Learner regardless of additional responsibilities and roles. All Learners have access to standard and individualized user functionality.
+
+**Leaders** are Learners that have created a Course or have become Course Leaders. Leaders have access to all Learner functionality and to additional Course management functionality.
+
+**Managers** have access to Learner, Leader, and additional functionality that allow them to manage local Resources, publications, collections, surveys, data sync schedules, and local software updates.
+
+If you are currently using this manual, then you are most likely a manager who is organizing and overseeing a Community or a Nation and its Communities. In order to see the available manager functionality, click on “Manager” next to your name on the Dashboard (see below, *How do I navigate the Dashboard*). Managers can also add, hide, delete, and view the details of Resources as well they can create, edit, re-categorize, and delete collections.
+
 ### User profile
 Click on the profile button in the top right corner of Planet. Here, you can view or edit your profile, change your password, or logout. Be sure to log out once you are finished with your session.
 
-![](images/planet-home-profile.png)
+![](images/planet-home-profile.png)  
+
+---  
+
+# Using Planet  
+For users that use the nation version of Planet, they will see __Nation__ highlighted in the menu (see first image) and those that use the community version of Planet, they will see __Community__ highlighted in the menu (see second image).
+
+![nation version dashboard](images/nation-page-view.png)
+![community version dashboard](images/community-page-view.png)
+
+The following section breaks down the main actions you can do on Planet:
+
+- **[Library](#Library):** Manage resources within the community by filtering, searching or adding resources.  
+- **[Courses](#Courses):** Manage courses by (1) joining a course, adding and sending a course to the remote database, and deleting a course or by (2) adding tests or surveys to a course.  
+- **[Teams](#Teams):** Create teams to manage members, communicate with members, or offering courses to members.  
+- **Enterprises**  
+
+Read [here](#Community_Page) for more information on the Community version main page.
+
+---  
 
 ## Library
 The Library is home to the community's collection of media and other resources.
@@ -118,6 +150,8 @@ On this page, you can open the resource in a new tab, add it to your library, an
 
 ## Courses
 The Courses page is where you can create and join a variety of different courses where you can learn many different topics.
+
+A Course allows Leaders to walk Learners through specific resources and exercises to learn new skills.
 
 ### Getting to the Courses Page
 There are two ways to get to the Courses page:
@@ -193,6 +227,16 @@ For filtering by collection, please check out [Course Collections](#Course_Colle
 At the bottom-right of the page, you can see your pagination options. You are able to have 5, 10, 20, 50, 100, or 200 courses per page, and the pages showing the course list will be split accordingly. Use the left and right arrow buttons to navigate in the case there are multiple pages.
 
 ![Pagination](images/courses-pagination.png)
+
+* Course Listing View  
+
+Once you have clicked on an item in Courses, you will see the following view (see image). Within the listing (see blue box), there will be a row of icons that tell you what you can do for the course. In this example, the clipboard icon (see black circle) shows that you can take a test for this course. The paperclip icon (see red circle) shows that there's a resource attached to this course.  
+
+![course listing view](images/course-view.png)
+
+If you click on the blue box, the view is expanded (see image) and you can take actions by clicking on the __View Resource__ or (in this case) __Preview__ buttons. If "View Resource" is clicked on, a new page will pop up with the resource shown. If "Preview" is clicked on, you can see the test. (If you have not joined the course, you will only see the Preview button and not the Take Test button.) To learn more about taking tests, read [here](#Taking_a_Test).  
+
+![course listing view expanded](images/course-view-expanded.png)
 
 ### Adding Course
 
@@ -452,7 +496,9 @@ To manage teams you would have to click on `Manage` as seen below
 You will then arrive at this page where you will have many potential actions:
 
 ![Manage Teams](images/planet-teams-view.png)
+
 These actions will be explained in depth below:
+
 1. `New Message`
 2. `Add Members`
 3. `Manage Courses` 
@@ -587,7 +633,7 @@ As you can see below, once you are in your planet dashboard you can add feedback
 
     ![Teams Feedback](images/planet-feedback-teams.png)
 
-3. Meetups
+4. Meetups
 
     ![Meetups Feedback](images/planet-feedback-meetups.png)
 
@@ -635,7 +681,7 @@ You can view the list of members by clicking on the members button. Here, you ca
 
 ### Manage Sync
 	
-To perform Manage Sync, simply click on the Manage Sync button in the Manager page, then click the Run Sync button.
+To perform Manage Sync, simply click on the Manage Sync button on the Manager page, then click the Run Sync button.
 	
 ![](images/planet-manager-sync.png)
 
