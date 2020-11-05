@@ -2,7 +2,7 @@
 
 ## Objectives
 
-* Getting familiar with treehouses cli 
+* Getting familiar with treehouses cli
 * Set up your SSH key
 * Set up Tor
 
@@ -23,11 +23,11 @@ Follow these steps to create your SSH key:
 
 A trick to whether github is configured correctly is to navigate to `https://github.com/<yourgithubusername>.keys` in a browser - your public SSH key should show up there.
 
-**NOTE**: Be sure not to confuse the public SSH key and the key fingerprint. The fingerprint of a key is unique and used to identify the key. 
+**NOTE**: Be sure not to confuse the public SSH key and the key fingerprint. The fingerprint of a key is unique and used to identify the key.
 
 SSH keys are stored in a `~/.ssh` directory. You will need to find a set of files looking like `id_dsa` or `id_rsa` (your private key or key fingerprint) and a complimentary `.pub` file (your public key).
 This is the key fingerprint format: `SHA256:PqNGgIJfgjnoq9JMd2czLPAevkAzr4OIKb22GxMZg1M dogi@ole.org`.
-However, the public keys are similar to this: 
+However, the public keys are similar to this:
 ```
 $ cat ~/.ssh/id_rsa.pub
 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEArMkyotKz1J5+Kux3ToBNe+X3Qm+6WzTXflEEeOWdmxDZ5f5le7Ujes81ybRnavWSNR2TGr1evigE7vGsxHm2aEeR0YICWR24lPcJ2FUROmEdwn2OjDzh1YcKJDNvlMzXt1x0dNeEkSisHpk6p5RJ7OfCtyD/OjKhGyajbxS/n3RDSMgND46M7AiiaaIzlut3D09Gyhd93t16NTyR9Ej1RRRk8z9of3qLwhC1AqVJpSkuWn9+q111AfljsVZCHHDLw0+j7NIntk5x+yzrl2QQECNEaPpm1Pt4gmLG2nnrNjPAtrjWIfyWfhdSbgk/QscAE2XpCYoSFBW9d8bdIVMfSw== dogi@ole.org
@@ -65,7 +65,7 @@ Install [Tor](https://www.torproject.org/download/)
 
 ### Turn on Tor
 
-To activate Tor, SSH into your Vagrant. You might need to access it as `root` by executing `sudo -s`. Then run `treehouses tor add 22`, `treehouses tor add 80`, `treehouses tor add 2200` and `treehouses tor notice on`.  To view the Tor address of your machine, run `treehouses tor`, then copy and paste this address into your Tor Browser, to make sure it works; you should see a configuration page for Planet Learning, one of our other services.
+To activate Tor, SSH into your Vagrant `vagrant ssh prod`. You might need to access it as `root` by executing `sudo -s`. Then run `treehouses tor add 22`, `treehouses tor add 80`, `treehouses tor add 2200` and `treehouses tor notice on`.  To view the Tor address of your machine, run `treehouses tor`, then copy and paste this address into your Tor Browser, to make sure it works; you should see a configuration page for Planet Learning, one of our other services.
 
 ---
 #### At the end of this section, post the code of your successful SSH terminal with tor address to the [Slack chat](http://slack.ole.org)
