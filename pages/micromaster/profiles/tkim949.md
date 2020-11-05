@@ -11,14 +11,12 @@
 Introduction to Computer Networking, Mobile Software Development, Operating System, Software Engineering I - Agile,
 Software Engineering II - Unit Testing, Web Development.
 
-### Projects:
+### Projects and Experiences:
 
-1. Celebrity Dating App - currently working on
-    - Group Project with 3 members including me.
-    - Plan to develop an application that allows people to find their date using their prefernce and criteria.
-    - Language and tools: `Java Spring` for backend, `React.js` for frontend, `Postgres` for database.
-    - School Project for CS467-Capstone.
-    - **Link** - [Celebrity Dating App-my branch](https://github.com/laurenshareshian/celebritydatingapp/tree/TKbranch).
+1. Virtual Software Engineer Intern at Open Learning Exchange
+    - Assisting with delivering hardware, software, and technical support to various e-learning programs around the globe.
+    - Working on software quality assurance testing, hardware/software troubleshooting and testing, software development, and other technical-related tasks.
+    - Starting from October, 2020
     
 2. Food Waste Management Mobile Application - Jul-Aug 2020
     - Individual School Project for CS492 Mobile Software Development.
@@ -43,5 +41,5 @@ Software Engineering II - Unit Testing, Web Development.
     - - - - - -
     
 ### Comments:
-> I am grateful to have an opportunity to join Open Learning Exchange Internship Program because I enjoy learning new languages and development technidues. I am also interested in Cloud computing. And I am graduating this December so now actively seeking Software Development Opportunites Ful-time as well. Thanks!
+> I am grateful to have an opportunity to join Open Learning Exchange Internship Program because I enjoy learning new languages and development techniques. I am also interested in Cloud computing. And I am graduating this December so now actively seeking Software Development Opportunites so that I can apply what I learned from the school, OSU to the real world. Thanks!
 
