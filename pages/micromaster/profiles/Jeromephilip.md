@@ -26,10 +26,7 @@ Git | 2
 
 Throughout my high school career, I have been involved in a variety projects. Some include:
 
-1. Creating a multitude of games in one of python's famous module, pygame
-
-   * Games Created: Space Invaders, Guess Who, and Card Matcher
-  
+1. Creating a multitude of games in one of python's modules, pygame (Games Created: Space Invaders, Guess Who, and Card Matcher)
   
 2. Completed Python Data Structures and Algorithms Udemy Course
  
