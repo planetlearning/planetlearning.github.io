@@ -2,7 +2,7 @@
 
 # OLE
 
-The [**Open Learning Exchange (OLE)**](http://ole.org) is committed to ensuring that everyone, especially children, has access to a high quality basic education. We work with nation-based entrepreneurs, educators, and practitioners committed to promoting highly effective and affordable learning systems that can benefit all of their people. We believe this will lead to more productive lives, communities, and nations, and to the possibility of a peaceful world. 
+The [**Open Learning Exchange (OLE)**](http://ole.org) is committed to ensuring that everyone, especially children, has access to a high quality basic education. We work with nation-based entrepreneurs, educators, and practitioners committed to promoting highly effective and affordable learning systems that can benefit all of their people. We believe this will lead to more productive lives, communities, and nations, and to the possibility of a peaceful world.
 
 
 OLE’s mission is to ensure learning for all, not only universal basic literacy and numeracy, but also vital knowledge and skills acquisition in the areas of health, nutrition, and community development. Since 2007, OLE International has helped establish Open Learning Communities for children, adolescents, and young adults, including those whose lives have been disrupted by violent conflicts.  Today there are OLE affiliates in Asia, Africa, the Middle East, and Latin America.
@@ -13,7 +13,7 @@ OLE’s mission is to ensure learning for all, not only universal basic literacy
 
 ### _What is the OLE Planet Learning System (Planet)?_
 
-Personalized Learning And Networked Enabled Teams (Planet) is a multilingual learning system and library with thousands of educational resources including books, videos, and educational games. The system also includes software tools for content and student management, student evaluation and monitoring, and Courses creation.
+Personalized Learning And Networked Enabled Teams (Planet) is a multilingual learning system and library with thousands of educational resources including books, videos, and educational games. The system also includes software tools for content and student management, student evaluation and monitoring, and courses creation.
 
 At the core, Planet is a repository of free, open access, and public domain resources designed to benefit literate and preliterate, young and old, and novice and expert learners of all ages. Resources of all kinds (literature, health, science, math, etc.), in various languages (English, Somali, Swahili, Arabic, Spanish, etc.), and in various formats (text, audio, video) are continually being added to Planet.
 
@@ -44,7 +44,7 @@ The **Nations** may store thousands of Resources in many formats and languages. 
 **NOTE:** Each Planet system is unique; universal memberships do not exist. If you become a member of a specific Nation or Community, you do not automatically become a member of any other existing Nations and Community. To become a member of another Nation or Community you must register with a new account.
 
 ## Become Member
-To be able to use **PLANET** you need to be part of the system. First thing you 
+To be able to use **PLANET** you need to be part of the system. First thing you
 will see on PLANET is **Login page**.
 
 ### How to get to Become Member
@@ -204,7 +204,7 @@ Alternatively, click on your course on the courses list to get the course page t
 
 By default, the rating on the right side of a course item shows the average rating of all users who have rated the particular course.
 
-In order to add a rating for a course: 
+In order to add a rating for a course:
 
 1. Click on one of the stars to the right side of the course item, with 1 being the lowest rating and 5 being the highest.
 
@@ -279,7 +279,7 @@ Upon clicking the "Add Question" button, you will find there are four types of q
 
 * Text - Simply fill out the question detail or query for this type of question. The test taker will automatically get a textbox for filling out his or her answer.  
 	* Short answer: Usually single line short answers.  
-	* Long answer: More possibly to be very long descriptive answers.	
+	* Long answer: More possibly to be very long descriptive answers.
 
 ![Short answer](images/courses-test-short.png)
 ![Long answer](images/courses-test-long.png)
@@ -288,7 +288,7 @@ Upon clicking the "Add Question" button, you will find there are four types of q
 * Multiple Choice - Click the "Add Choice" button to create a choice of answers for the question. The checkboxes denote the correct answers for the question and are required for creation of the question. Click the red circle button to the right of the choice to delete it from the question.
 	* Single answer: Only __one__ checkbox can be chosen for this type of question.  
 	In the image seen first below, the correct answer is set by checkbox to be the second choice, "Two".  
-	
+
 	* Multiple answer  
 	In the image seen last below, the correct answer is set by checkbox to be the first, second, and fourth choices, "One", "Two", and "Four".
 
@@ -325,7 +325,7 @@ Upon clicking the "Add Question" button, you will find there are four types of q
 * Multiple Choice - Click the "Add Choice" button to create a choice of answers for the question. Click the red circle button to the right of the choice to delete it from the question. __Unlike tests, there are no checkboxes denoting the "correct" choice, as this is a survey.__  
 	* Single answer  
 	* Multiple answer  
-	
+
 ![Multiple choice single answer](images/courses-survey-mc-single.png)
 ![Multiple choice multiple answer](images/courses-survey-mc-multiple.png)
 
@@ -341,7 +341,7 @@ There are two ways of filtering the Courses page by collection:
 
 ![Filtering](images/courses-filtering.png)
 
-1. By clicking on the "Collections" button next to "Courses" on the top-left of the page. This will bring up a module where you can filter the course list on the Courses page by selecting checkboxes next to collections and subcollections, seeing only the courses that have these collections or subcollections. 
+1. By clicking on the "Collections" button next to "Courses" on the top-left of the page. This will bring up a module where you can filter the course list on the Courses page by selecting checkboxes next to collections and subcollections, seeing only the courses that have these collections or subcollections.
 
 You are also able to edit the course's name or subcollection status from this module.
 
@@ -431,11 +431,11 @@ As you can see below, once you are in your planet dashboard you can access the p
 ![Access Survey](images/planet-survey.png)
 
 ### Adding a survey
-Clicking on the plus icon to add a survey, as shown below: 
+Clicking on the plus icon to add a survey, as shown below:
 
 ![Add Survey](images/planet-add-survey.png)
 
-You will come to this page. Here you will need to add a **Title of a survey** 
+You will come to this page. Here you will need to add a **Title of a survey**
 
 ![Add Survey](images/planet-create-survey.png)
 
@@ -501,7 +501,7 @@ These actions will be explained in depth below:
 
 1. `New Message`
 2. `Add Members`
-3. `Manage Courses` 
+3. `Manage Courses`
 4. `Accept` or `Reject`
 
 You are also able to leave the meeting with the `Leave` button
@@ -533,7 +533,7 @@ As you can see below, once you are in your planet dashboard you can access the p
 ![Access Meetup](images/planet-access-meetup.png)
 
 ### Available Actions On Meetup Page
-1. Traversing the page. Here you can **filter and search** (Red box) for specific meetups and use the 
+1. Traversing the page. Here you can **filter and search** (Red box) for specific meetups and use the
 **page navigation** (Blue box) to traverse the list of meetings and show the number of them on the page.
 You can also click on the plus icon (Green box) to add a new meetup (see "Adding meetups")
 
@@ -660,29 +660,29 @@ By clicking the dotted menu under actions, you will be able to close an open fee
 One of the roles in planet is the Manager. The admin, as well as other managers, will have the ability to promote members to manager, set roles, and perform tasks such as syncing the community with the nation and upgrading the local community.
 
 The Manager role comes with another set of administrative features, including viewing reports, syncing the community with the nation, and performing upgrades on the community.
-	
+
 ### Accessing the Manager Dashboard
-	
+
 To access the Manager page, click on the manager icon on the home screen.
-	
+
 ![](images/planet-feedback-to-manager.png)
 
 ### Manager Dashboard User Interface
-	
+
 Here, you can view the reports, feedback, configuration, members, and reports from the planet, as well as perform Manage Sync and Upgrade.
-	
+
 ![](images/planet-manager.png)
 
 ### View Members (Including Roles and Profiles)
-	
+
 You can view the list of members by clicking on the members button. Here, you can promote/demote, set roles, and view profiles of other members.
-	
+
 ![](images/planet-manager-members.png)
 
 ### Manage Sync
-	
+
 To perform Manage Sync, simply click on the Manage Sync button on the Manager page, then click the Run Sync button.
-	
+
 ![](images/planet-manager-sync.png)
 
 ## Community Page
@@ -697,4 +697,4 @@ Here is the breakdown of what each tab does:
 * __Services__: Displays details and information about the community. Users can edit the community description and link the associated teams or enterprises to the community.  
 * __Finances__: Displays all transactions related to the community, including income and spendings.  
 
-The calendar section is used to manage events. Click on the __"Add Event"__ button to create an event. Once the event is created and displayed on the calendar, users can edit or delete the event. 
+The calendar section is used to manage events. Click on the __"Add Event"__ button to create an event. Once the event is created and displayed on the calendar, users can edit or delete the event.
