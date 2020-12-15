@@ -9,9 +9,9 @@
 Intro
 -----
 
-* Manchester United breaks my heart almost every year:broken_heart: :soccer:
-* I love listening to music while coding :notes::headphones::notes:
-* Casual gamer :video_game:
+* Manchester United breaks my heart almost every year 💔⚽️
+* I love listening to music while coding 🎶🎧🎶
+* Casual gamer 🎮
 
 --------------------------
 
