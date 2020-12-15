@@ -115,6 +115,12 @@ or not commonly used. To see all subcommands, run the command
 `vagrant list-commands`.
 ```
 
+## SSH With Vagrant
+
+SSH or Secure Shell is a cryptographic network protocol for operating network services securely over an unsecured network using a client-server architecture. At OLE, we use ssh to connect to our vagrant virtual machine and connect to servers in the field. Here are the basic syntax `ssh <Options> <username@hostname` with this, you can connect to servers worldwide. Using ssh with vagrant, we use the ssh command from the list above with our hostname, prod, to get the command `vagrant ssh prod`.
+
+
+
 ## Useful Links
 
 [Why install Vagrant?](https://www.vagrantup.com/intro/index.html) - Explanation of some basic concepts about why Vagrant is useful for developers, operators and designers.
