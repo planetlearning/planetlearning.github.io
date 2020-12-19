@@ -1,6 +1,6 @@
 
 ## Zan
-* (Alexander Strahl)
+* Alexander Strahl
 * New York State / Eastern Time
 * Windows 10
 
@@ -18,7 +18,7 @@ JavaScript | HTML | CSS | React | Python
 
 
 #### Fun Facts
-1.  I have an orange tabby, who's name is Phoenix and he's awesome!
+1.  I have an orange tabby, who's name is Phoenix and he's awesome! :heart:
 2.  I love Hiking and Rock climbing
 
 #### Goals
