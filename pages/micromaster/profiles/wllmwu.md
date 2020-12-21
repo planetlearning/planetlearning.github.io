@@ -1,7 +1,3 @@
-# William Wu
-
-A Markdown wiki page for William Wu
-
 ## Quick info
 
 - **Name:** William Wu
