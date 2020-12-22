@@ -44,8 +44,7 @@ The **Nations** may store thousands of Resources in many formats and languages. 
 **NOTE:** Each Planet system is unique; universal memberships do not exist. If you become a member of a specific Nation or Community, you do not automatically become a member of any other existing Nations and Community. To become a member of another Nation or Community you must register with a new account.
 
 ## Become Member
-To be able to use **PLANET** you need to be part of the system. First thing you
-will see on PLANET is **Login page**.
+To be able to use **PLANET** you need to be part of the system. First thing you will see on PLANET is **Login page**.
 
 ### How to get to Become Member
 When you first open Planet, you will see the login page. Click on the "Become a member" button to create your account.
@@ -533,9 +532,7 @@ As you can see below, once you are in your planet dashboard you can access the p
 ![Access Meetup](images/planet-access-meetup.png)
 
 ### Available Actions On Meetup Page
-1. Traversing the page. Here you can **filter and search** (Red box) for specific meetups and use the
-**page navigation** (Blue box) to traverse the list of meetings and show the number of them on the page.
-You can also click on the plus icon (Green box) to add a new meetup (see "Adding meetups")
+1. Traversing the page. Here you can **filter and search** (Red box) for specific meetups and use the **page navigation** (Blue box) to traverse the list of meetings and show the number of them on the page. You can also click on the plus icon (Green box) to add a new meetup (see "Adding meetups")
 
 ![Access Meetup](images/planet-meetup-page.png)
 
