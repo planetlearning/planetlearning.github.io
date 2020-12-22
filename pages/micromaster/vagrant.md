@@ -65,6 +65,7 @@ The above output tells us:
 - [`vagrant suspend prod`](https://www.vagrantup.com/docs/cli/suspend.html) will suspend the "running" virtual machine, its state will become "saved".
 - [`vagrant halt prod`](https://www.vagrantup.com/docs/cli/halt.html) will shut down the "running" virtual machine, its state will become "poweroff".
 - [`vagrant destroy prod`](https://www.vagrantup.com/docs/cli/destroy.html) will delete the virtual machine entirely. To use community Planet again, we will have to rebuild a new machine from scratch using `vagrant up`.
+- [`vagrant ssh prod`](https://www.vagrantup.com/docs/cli/ssh) connects to the running virtural machine through the command line. 
 
 To conserve hardware resources of your computer, you could use `vagrant halt prod` to shutdown the virtual machine that's running your community Planet. Use `vagrant up prod` to turn the virtual machine back on when you need to access your community Planet again.
 
