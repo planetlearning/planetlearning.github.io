@@ -6,6 +6,12 @@ to be used by students in my undergrad, I later transitioned to doing projects u
 I've always been longing to contribute to an open source project and put my skills to use to serve the community which is something that immensely satisfies me. 
 I am glad to be part of one of the contributors to this platform, and hopeful to create a positive impact!
 
-#Links
+# Links
 [GitHub](http://www.github.com/rayyanshaji)
 [LinkedIn](http://www.linkedin.com/in/rayyan-shaji)
+
+# Programming Languages, Technologies and Databases
+Front-end | Backend | Databases/Deployment Tools
+------------ | -------------
+HTML, CSS, JavaScript | Java, C#, PHP, Python | SQL, NoSQL (MongoDB, Firebase)
+Angular, React | SpringBoot, .NET, Yii, Flask | REST (JSON, XML)
