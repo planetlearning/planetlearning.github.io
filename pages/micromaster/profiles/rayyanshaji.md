@@ -12,6 +12,6 @@ I am glad to be part of one of the contributors to this platform, and hopeful to
 
 # Programming Languages, Technologies and Databases
 Front-end | Backend | Databases/Deployment Tools
------------- | -------------
+----------|---------| --------------------------
 HTML, CSS, JavaScript | Java, C#, PHP, Python | SQL, NoSQL (MongoDB, Firebase)
-Angular, React | SpringBoot, .NET, Yii, Flask | REST (JSON, XML)
+Angular, React | SpringBoot, .NET, Yii, Flask | REST (JSON, XML),AWS, Azure, Linux, Git
