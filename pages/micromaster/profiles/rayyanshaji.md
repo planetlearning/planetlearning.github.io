@@ -5,3 +5,7 @@ I am passionate about web development and aeroplanes! Which is why it was a toug
 to be used by students in my undergrad, I later transitioned to doing projects using strongly typed object-oriented languages and modern frameworks such as Angular, React in grad school.
 I've always been longing to contribute to an open source project and put my skills to use to serve the community which is something that immensely satisfies me. 
 I am glad to be part of one of the contributors to this platform, and hopeful to create a positive impact!
+
+#Links
+[GitHub](http://www.github.com/rayyanshaji)
+[LinkedIn](http://www.linkedin.com/in/rayyan-shaji)
