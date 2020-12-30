@@ -18,9 +18,9 @@ My name is Farzan and I am a software engineer student at University of Californ
 
 Besides, I have experience in HTML, CSS, AWS, MySQL, MongoDB, Android Development.
 
-To leanrn more about me you can check my website at https://farzan.codes
+To leanrn more about me you can check my website at [Farzan.Codes](https://farzan.codes)
 ***
 
 
 
-PS: I love *Pizza, Ice Cream and Chocolate cake!* :pizza: :ice_cream: :chocolate_bar: :cake:
+PS: I love *Pizza, Ice Cream and Chocolate cake!*
