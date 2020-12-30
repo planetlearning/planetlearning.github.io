@@ -1,4 +1,4 @@
-# :christmas_tree:Farzan Khoobchehr
+# Farzan Khoobchehr
 
 **Location:** San Diego, CA | PDT
 
@@ -9,12 +9,12 @@ My name is Farzan and I am a software engineer student at University of Californ
 
 ## Relevant Skills:
 
-Programming languages | Experience
------------- | -------------
-Java | :large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:
-Python | :large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:
-JS | :large_blue_circle::large_blue_circle::large_blue_circle:
-React | :large_blue_circle::large_blue_circle::large_blue_circle:
+| Programming Languages |
+|---|
+| Java |
+| Python |
+| JS |
+| React.js |
 
 Besides, I have experience in HTML, CSS, AWS, MySQL, MongoDB, Android Development.
 
