@@ -68,7 +68,7 @@ In the Planet system, there are three different kinds of users: Learners, Leader
 
 **Managers** have access to Learner, Leader, and additional functionality that allow them to manage local Resources, publications, collections, surveys, data sync schedules, and local software updates.
 
-If you are currently using this manual, then you are most likely a manager who is organizing and overseeing a Community or a Nation and its Communities. In order to see the available manager functionality, click on “Manager” next to your name on the Dashboard (see below, *How do I navigate the Dashboard*). Managers can also add, hide, delete, and view the details of Resources as well they can create, edit, re-categorize, and delete collections.
+If you are currently using this manual, then you are most likely a manager who is organizing and overseeing a Community or a Nation and its Communities. In order to see the available manager functionality, click on “Manager” next to your name on the dashboard. Managers can also add, hide, delete, and view the details of Resources as well they can create, edit, re-categorize, and delete collections.
 
 ### User profile
 Click on the profile button in the top right corner of Planet. Here, you can view or edit your profile, change your password, or logout. Be sure to log out once you are finished with your session.
@@ -682,7 +682,7 @@ You can view the list of members by clicking on the members button. Here, you ca
 ### Manage Sync
 	
 To perform Manage Sync, simply click on the Manage Sync button on the Manager page, then click the Run Sync button.
-	
+
 ![](images/planet-manager-sync.png)
 
 ## Community Page
