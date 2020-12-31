@@ -67,7 +67,7 @@ Install [Tor](https://www.torproject.org/download/)
 
 To activate Tor, SSH into your Vagrant, this can be done by executing `vagrant ssh prod`. You might need to access it as `root` by executing `sudo -s`. Then run `treehouses tor add 22`, `treehouses tor add 80`, `treehouses tor add 2200` and `treehouses tor notice on`.  To view the Tor address of your machine, run `treehouses tor`, then copy and paste this address into your Tor Browser, to make sure it works; you should see a configuration page for Planet Learning, one of our other services.
 
-You can find more info on usful Vagrant commands [here](micromaster/vagrant.md).
+You can find more info on useful Vagrant commands and troubleshooting tips in the [Vagrant Tutorial](#!./pages/micromaster/vagrant.md).
 ---
 #### At the end of this section, post the code of your successful SSH terminal with tor address to the [Slack chat](http://slack.ole.org)
 
