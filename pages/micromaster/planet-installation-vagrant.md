@@ -103,7 +103,7 @@ To solve this problem: Copy link location of Debian 32-bit instead and run comma
  
 ---
 
-## Install a Community Planet  
+## Install a Community Planet (Windows)
 
 Make sure you `cd` to the designated OLE directory you created earlier.
 
@@ -113,8 +113,10 @@ cd planet
 vagrant up prod
 ```
 
-You now have a working [community Planet](http://localhost:3100) on your OS.
+You now have a working [community Planet](http://localhost:3100) on your OS, that can be accessed using [http://localhost:3100](http://localhost:3100).
 It is advisable to use Firefox to access your community Planet. If you don't have Firefox already, you may want to [download](https://www.mozilla.org/en-US/firefox/new/) it. If you are using Firefox and community Planet is not working properly, please update your Firefox to the latest version and then try again.
+
+When the login screen loads, Follow further steps in the [Planet Manual](https://planetlearning.github.io/#!./pages/micromaster/../manual/planet.md) to register as a member.
 
 ---
 
